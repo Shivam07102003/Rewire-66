@@ -160,7 +160,7 @@ Each recording below includes a link to the video and a link to its matching gam
 
 ### 💀 Recording 6 — Final Battle Game Over
 
-[▶️ Watch Recording 6](Submission%20Materials/Videos/Recording_6-game-over.mp4)
+[▶️ Watch Recording 6](Submission%20Materials/Videos/Recording_6.mp4)
 
 [📄 Read Recording 6 Explanation](Submission%20Materials/Documentation/recording-6-final-battle-game-over.md)
 
