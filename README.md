@@ -118,49 +118,51 @@ If the robot survives, the transmission is completed and the victory message app
 
 Each recording below includes a link to the video and a link to its matching gameplay explanation.
 
-### 🎮 Recording 1 — Basic Gameplay, First Repairs, and Storage Access
+### 🎮 Recording 1 — Basic Gameplay
 
-This recording demonstrates the opening progression: facility exploration, map navigation, objective tracking, radar-based fuse searches, Entry Room and Central Hub repairs, Storage Access Card progression, a fake-component trap, parasite combat, reloading, bullet backfire, and healing interruption.
+[▶️ Watch Recording 1](Submission%20Materials/Videos/Recording_1.mp4)
 
-[▶️ Watch Recording 1](Videos/recording-1.mp4)  
-[📄 Read the Recording 1 Explanation](Documentation/recording-1-basic-gameplay.md)
+[📄 Read Recording 1 Explanation](Submission%20Materials/Documentation/recording-1-basic-gameplay.md)
+
+---
 
 ### 🌑 Recording 2 — Blackout, Wire Repair, and Control Panel
 
-This recording shows entry into Storage, the blackout event, the wire repair that restores the lights, radar filtering for an access card, secured-gate authorization, and the Control Panel repair using a previously collected Control Board.
+[▶️ Watch Recording 2](Submission%20Materials/Videos/Recording_2.mp4)
 
-[▶️ Watch Recording 2](Videos/recording-2.mp4)  
-[📄 Read the Recording 2 Explanation](Documentation/recording-2-blackout-and-old-findings.md)
+[📄 Read Recording 2 Explanation](Submission%20Materials/Documentation/recording-2-blackout-and-old-findings.md)
+
+---
 
 ### 🔎 Recording 3 — Hidden Items and Secret Pathways
 
-This recording demonstrates hidden-component discovery, Maintenance repair, Loading Bay access, Storage circuit-board collection and repair, Loading Bay wire repair, Generator A access, and the intentional secret passage from Loading Bay to Generator A. It also explains why the fake circuit board appears again after restarting the recording.
+[▶️ Watch Recording 3](Submission%20Materials/Videos/Recording_3.mp4)
 
-[▶️ Watch Recording 3](Videos/recording-3.mp4)  
-[📄 Read the Recording 3 Explanation](Documentation/recording-3-hidden-items-and-secret-pathways.md)
+[📄 Read Recording 3 Explanation](Submission%20Materials/Documentation/recording-3-hidden-items-and-secret-pathways.md)
 
-### ⚙️ Recording 4 — Generator A, Generator B, and Locked Compartment
+---
 
-This recording follows the Generator A and Generator B progression chain. It shows the hidden Generator A Control Board, Generator A repair, conditional key spawning in Loading Bay, key-based access to a locked Generator A compartment, collection of the Generator B Access Card, Generator B gate authorization, and the Generator B fuse repair.
+### ⚙️ Recording 4 — Generators and Locked Compartment
 
-[▶️ Watch Recording 4](Videos/recording-4.mp4)  
-[📄 Read the Recording 4 Explanation](Documentation/recording-4-generators-and-locked-compartment.md)
+[▶️ Watch Recording 4](Submission%20Materials/Videos/Recording_4.mp4)
 
-### 🔋 Recording 5 — Final Repairs, Generators, and Successful Final Volley
+[📄 Read Recording 4 Explanation](Submission%20Materials/Documentation/recording-4-generators-and-locked-compartment.md)
 
-This recording shows the final repair chain: collecting the Generator B fence key, opening the fence between the generators, completing the Generator A coolant task, finding the hidden Generator B Control Board, repairing Loading Bay, collecting the Storage locker key, opening the Storage compartment, completing the final Generator A coolant task, and activating the communications tower.
+---
 
-The recording ends with the 30-second final volley against three large parasites and the victory message.
+### 🔋 Recording 5 — Generators and Final Volley
 
-[▶️ Watch Recording 5](Videos/recording-5.mp4)  
-[📄 Read the Recording 5 Explanation](Documentation/recording-5-generators-and-final-volley.md)
+[▶️ Watch Recording 5](Submission%20Materials/Videos/Recording_5.mp4)
+
+[📄 Read Recording 5 Explanation](Submission%20Materials/Documentation/recording-5-generators-and-final-volley.md)
+
+---
 
 ### 💀 Recording 6 — Final Battle Game Over
 
-This recording demonstrates the alternate outcome of the final communications-tower sequence. The player is defeated by the large parasites before the survival objective is completed, and the game displays the Game Over message.
+[▶️ Watch Recording 6](Submission%20Materials/Videos/Recording_6-game-over.mp4)
 
-[▶️ Watch Recording 6](Videos/recording-6-game-over.mp4)  
-[📄 Read the Recording 6 Explanation](Documentation/recording-6-final-battle-game-over.md)
+[📄 Read Recording 6 Explanation](Submission%20Materials/Documentation/recording-6-final-battle-game-over.md)
 
 ## 🏆 Possible Outcomes
 
