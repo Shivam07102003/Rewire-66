@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 0ee8836c50c400d448c34ab513948a27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5913758130171416425
+    second: Reinforced hazard-striped wall panel_0
+  - first:
+      213: -6899056314390151693
+    second: Reinforced hazard-striped wall panel_1
+  - first:
+      213: 7467081343376992567
+    second: Reinforced hazard-striped wall panel_2
+  - first:
+      213: -8837387859154940142
+    second: Reinforced hazard-striped wall panel_3
+  - first:
+      213: -825017256642326221
+    second: Reinforced hazard-striped wall panel_4
+  - first:
+      213: 8278114117412800906
+    second: Reinforced hazard-striped wall panel_5
+  - first:
+      213: -4556066837811428442
+    second: Reinforced hazard-striped wall panel_6
+  - first:
+      213: -2610208729951880994
+    second: Reinforced hazard-striped wall panel_7
+  - first:
+      213: 269910123689028171
+    second: Reinforced hazard-striped wall panel_8
+  - first:
+      213: 2348517233594383801
+    second: Reinforced hazard-striped wall panel_9
+  - first:
+      213: 3017654324303805700
+    second: Reinforced hazard-striped wall panel_10
+  - first:
+      213: 543275717053347124
+    second: Reinforced hazard-striped wall panel_11
+  - first:
+      213: -6665469583334883303
+    second: Reinforced hazard-striped wall panel_12
+  - first:
+      213: 7576541405210174677
+    second: Reinforced hazard-striped wall panel_13
+  - first:
+      213: -4961578032236892794
+    second: Reinforced hazard-striped wall panel_14
+  - first:
+      213: 8212248906965010665
+    second: Reinforced hazard-striped wall panel_15
+  - first:
+      213: -8161887982714147985
+    second: Reinforced hazard-striped wall panel_16
+  - first:
+      213: 7011127034503331663
+    second: Reinforced hazard-striped wall panel_17
+  - first:
+      213: 3783858821831770089
+    second: Reinforced hazard-striped wall panel_18
+  - first:
+      213: 1662280300012884900
+    second: Reinforced hazard-striped wall panel_19
+  - first:
+      213: -8940378937420792675
+    second: Reinforced hazard-striped wall panel_20
+  - first:
+      213: -4224442618406020792
+    second: Reinforced hazard-striped wall panel_21
+  - first:
+      213: -1165574626768096391
+    second: Reinforced hazard-striped wall panel_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 17
+        width: 2125
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790fd83205c1eeda0800000000000000
+      internalID: -5913758130171416425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_1
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 691
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdfb57b5d0a140a0800000000000000
+      internalID: -6899056314390151693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 75
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739aee46be660a760800000000000000
+      internalID: 7467081343376992567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 75
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f48b8809a4b5580800000000000000
+      internalID: -8837387859154940142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 55
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331544c1d23fc84f0800000000000000
+      internalID: -825017256642326221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 49
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8949823ee4c1e270800000000000000
+      internalID: 8278114117412800906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_6
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 48
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3005f995995c0c0800000000000000
+      internalID: -4556066837811428442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_7
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 65
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed838955dfca6cbd0800000000000000
+      internalID: -2610208729951880994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 53
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a24c3d3d9eeb300800000000000000
+      internalID: 269910123689028171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 33
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb6412bfb979020800000000000000
+      internalID: 2348517233594383801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_10
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 39
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dbc07ae9cd0e920800000000000000
+      internalID: 3017654324303805700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_11
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4357f02e26a1a8700800000000000000
+      internalID: 543275717053347124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_12
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 49
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9104728aabe7f73a0800000000000000
+      internalID: -6665469583334883303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_13
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 49
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4679b0448452960800000000000000
+      internalID: 7576541405210174677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 27
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d6327311fe42bb0800000000000000
+      internalID: -4961578032236892794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 29
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84dbaded4c7f170800000000000000
+      internalID: 8212248906965010665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 35
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b2bcd8f162bbe80800000000000000
+      internalID: -8161887982714147985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_17
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f75be24e68c4160800000000000000
+      internalID: 7011127034503331663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_18
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 41
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb28bfc87f28430800000000000000
+      internalID: 3783858821831770089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_19
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 33
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3d56f202b911710800000000000000
+      internalID: 1662280300012884900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c36ad79b46de380800000000000000
+      internalID: -8940378937420792675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_21
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 29
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84953e312d3cf55c0800000000000000
+      internalID: -4224442618406020792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reinforced hazard-striped wall panel_22
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 25
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973774c6d0c03dfe0800000000000000
+      internalID: -1165574626768096391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Reinforced hazard-striped wall panel_0: -5913758130171416425
+      Reinforced hazard-striped wall panel_1: -6899056314390151693
+      Reinforced hazard-striped wall panel_10: 3017654324303805700
+      Reinforced hazard-striped wall panel_11: 543275717053347124
+      Reinforced hazard-striped wall panel_12: -6665469583334883303
+      Reinforced hazard-striped wall panel_13: 7576541405210174677
+      Reinforced hazard-striped wall panel_14: -4961578032236892794
+      Reinforced hazard-striped wall panel_15: 8212248906965010665
+      Reinforced hazard-striped wall panel_16: -8161887982714147985
+      Reinforced hazard-striped wall panel_17: 7011127034503331663
+      Reinforced hazard-striped wall panel_18: 3783858821831770089
+      Reinforced hazard-striped wall panel_19: 1662280300012884900
+      Reinforced hazard-striped wall panel_2: 7467081343376992567
+      Reinforced hazard-striped wall panel_20: -8940378937420792675
+      Reinforced hazard-striped wall panel_21: -4224442618406020792
+      Reinforced hazard-striped wall panel_22: -1165574626768096391
+      Reinforced hazard-striped wall panel_3: -8837387859154940142
+      Reinforced hazard-striped wall panel_4: -825017256642326221
+      Reinforced hazard-striped wall panel_5: 8278114117412800906
+      Reinforced hazard-striped wall panel_6: -4556066837811428442
+      Reinforced hazard-striped wall panel_7: -2610208729951880994
+      Reinforced hazard-striped wall panel_8: 269910123689028171
+      Reinforced hazard-striped wall panel_9: 2348517233594383801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

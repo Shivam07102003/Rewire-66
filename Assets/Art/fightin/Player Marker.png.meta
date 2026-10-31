@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 764d7468419c55d4fa0052b64c43cfe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 767468581542508973
+    second: Top-down cyan robotic player marker_0
+  - first:
+      213: 1140481775876027237
+    second: Top-down cyan robotic player marker_1
+  - first:
+      213: -148635863236555283
+    second: Top-down cyan robotic player marker_2
+  - first:
+      213: 8323058077282730089
+    second: Top-down cyan robotic player marker_3
+  - first:
+      213: -8861130686202117260
+    second: Top-down cyan robotic player marker_4
+  - first:
+      213: -299451484838353476
+    second: Top-down cyan robotic player marker_5
+  - first:
+      213: -5723694894457833843
+    second: Top-down cyan robotic player marker_6
+  - first:
+      213: -7416156147148156059
+    second: Top-down cyan robotic player marker_7
+  - first:
+      213: 507613198173775589
+    second: Top-down cyan robotic player marker_8
+  - first:
+      213: 4622340673095300355
+    second: Top-down cyan robotic player marker_9
+  - first:
+      213: 927442799256736883
+    second: Top-down cyan robotic player marker_10
+  - first:
+      213: -9027638644578053194
+    second: Top-down cyan robotic player marker_11
+  - first:
+      213: 2011011610438642634
+    second: Top-down cyan robotic player marker_12
+  - first:
+      213: -8909818308152533880
+    second: Top-down cyan robotic player marker_13
+  - first:
+      213: 2665658884298600496
+    second: Top-down cyan robotic player marker_14
+  - first:
+      213: 2517398153179226173
+    second: Top-down cyan robotic player marker_15
+  - first:
+      213: 548911840987704823
+    second: Top-down cyan robotic player marker_16
+  - first:
+      213: 6110845856832534725
+    second: Top-down cyan robotic player marker_17
+  - first:
+      213: 6142218149918476222
+    second: Top-down cyan robotic player marker_18
+  - first:
+      213: 8704445990915505051
+    second: Top-down cyan robotic player marker_19
+  - first:
+      213: 3389029418775343392
+    second: Top-down cyan robotic player marker_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 1193
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da93d13db9896aa00800000000000000
+      internalID: 767468581542508973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1161
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563b5e3f12ec3df00800000000000000
+      internalID: 1140481775876027237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1092
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc6ea4870ffedf0800000000000000
+      internalID: -148635863236555283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1130
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960026d4931718370800000000000000
+      internalID: 8323058077282730089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_4
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1022
+        width: 84
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4730c94d690f60580800000000000000
+      internalID: -8861130686202117260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 948
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb52fba067228dbf0800000000000000
+      internalID: -299451484838353476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 917
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86bf15a1d95190b0800000000000000
+      internalID: -5723694894457833843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 921
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5639762d645841990800000000000000
+      internalID: -7416156147148156059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 901
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6a278a3876b0700800000000000000
+      internalID: 507613198173775589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3057faa1a5ad52040800000000000000
+      internalID: 4622340673095300355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_10
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 449
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3741137ef40fedc00800000000000000
+      internalID: 927442799256736883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 391
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b31655bb7267b280800000000000000
+      internalID: -9027638644578053194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_12
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 391
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba167a76c88eb10800000000000000
+      internalID: 2011011610438642634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_13
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 369
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cdb497477f95480800000000000000
+      internalID: -8909818308152533880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 371
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0307bfac1a25ef420800000000000000
+      internalID: 2665658884298600496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e87658489fe220800000000000000
+      internalID: 2517398153179226173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 168
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde31f39602e9700800000000000000
+      internalID: 548911840987704823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 168
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8bbad1ee51ec450800000000000000
+      internalID: 6110845856832534725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb709de4dda8d3550800000000000000
+      internalID: 6142218149918476222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_19
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 176
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b7717b2876cc870800000000000000
+      internalID: 8704445990915505051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top-down cyan robotic player marker_20
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 98
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f37fec40480f20800000000000000
+      internalID: 3389029418775343392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Top-down cyan robotic player marker_0: 767468581542508973
+      Top-down cyan robotic player marker_1: 1140481775876027237
+      Top-down cyan robotic player marker_10: 927442799256736883
+      Top-down cyan robotic player marker_11: -9027638644578053194
+      Top-down cyan robotic player marker_12: 2011011610438642634
+      Top-down cyan robotic player marker_13: -8909818308152533880
+      Top-down cyan robotic player marker_14: 2665658884298600496
+      Top-down cyan robotic player marker_15: 2517398153179226173
+      Top-down cyan robotic player marker_16: 548911840987704823
+      Top-down cyan robotic player marker_17: 6110845856832534725
+      Top-down cyan robotic player marker_18: 6142218149918476222
+      Top-down cyan robotic player marker_19: 8704445990915505051
+      Top-down cyan robotic player marker_2: -148635863236555283
+      Top-down cyan robotic player marker_20: 3389029418775343392
+      Top-down cyan robotic player marker_3: 8323058077282730089
+      Top-down cyan robotic player marker_4: -8861130686202117260
+      Top-down cyan robotic player marker_5: -299451484838353476
+      Top-down cyan robotic player marker_6: -5723694894457833843
+      Top-down cyan robotic player marker_7: -7416156147148156059
+      Top-down cyan robotic player marker_8: 507613198173775589
+      Top-down cyan robotic player marker_9: 4622340673095300355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

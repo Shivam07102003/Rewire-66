@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: fdcc4493a2c542046bd606d9f16c3f77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8551347906537803023
+    second: Gritty Sci-Fi Modular Wall Segment-3_0
+  - first:
+      213: 8395046472158769440
+    second: Gritty Sci-Fi Modular Wall Segment-3_1
+  - first:
+      213: 7193847676076873196
+    second: Gritty Sci-Fi Modular Wall Segment-3_2
+  - first:
+      213: -7332122629894595788
+    second: Gritty Sci-Fi Modular Wall Segment-3_3
+  - first:
+      213: 7796254858093846725
+    second: Gritty Sci-Fi Modular Wall Segment-3_4
+  - first:
+      213: -7655549664830415721
+    second: Gritty Sci-Fi Modular Wall Segment-3_5
+  - first:
+      213: 3274288123691158734
+    second: Gritty Sci-Fi Modular Wall Segment-3_6
+  - first:
+      213: 7473242375852178152
+    second: Gritty Sci-Fi Modular Wall Segment-3_7
+  - first:
+      213: 7270102773028191624
+    second: Gritty Sci-Fi Modular Wall Segment-3_8
+  - first:
+      213: -3994843482980913236
+    second: Gritty Sci-Fi Modular Wall Segment-3_9
+  - first:
+      213: -981697735432642464
+    second: Gritty Sci-Fi Modular Wall Segment-3_10
+  - first:
+      213: -5808513596622916514
+    second: Gritty Sci-Fi Modular Wall Segment-3_11
+  - first:
+      213: -8568626003001393560
+    second: Gritty Sci-Fi Modular Wall Segment-3_12
+  - first:
+      213: 3975451630413143616
+    second: Gritty Sci-Fi Modular Wall Segment-3_13
+  - first:
+      213: -2093155877904700202
+    second: Gritty Sci-Fi Modular Wall Segment-3_14
+  - first:
+      213: -5677442593051440497
+    second: Gritty Sci-Fi Modular Wall Segment-3_15
+  - first:
+      213: 5106499455468855900
+    second: Gritty Sci-Fi Modular Wall Segment-3_16
+  - first:
+      213: 2757533282172893467
+    second: Gritty Sci-Fi Modular Wall Segment-3_17
+  - first:
+      213: 2607541149409984761
+    second: Gritty Sci-Fi Modular Wall Segment-3_18
+  - first:
+      213: -8555812607890410376
+    second: Gritty Sci-Fi Modular Wall Segment-3_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 679
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d47ff2d9d7ca670800000000000000
+      internalID: 8551347906537803023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_1
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 675
+        width: 339
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217bed9942318470800000000000000
+      internalID: 8395046472158769440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_2
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 683
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5d4d4c85ea5d360800000000000000
+      internalID: 7193847676076873196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_3
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 675
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b978bb0511f3a90800000000000000
+      internalID: -7332122629894595788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 2117
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0e813bc7cd13c60800000000000000
+      internalID: 7796254858093846725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_5
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 586
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c1c63042602c590800000000000000
+      internalID: -7655549664830415721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_6
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 586
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc44e853bb907d20800000000000000
+      internalID: 3274288123691158734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 554
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eab01d885a46b760800000000000000
+      internalID: 7473242375852178152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 101
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d7de214f794e460800000000000000
+      internalID: 7270102773028191624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_9
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 106
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf63af84077f88c0800000000000000
+      internalID: -3994843482980913236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 78
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0606bb26c1f4062f0800000000000000
+      internalID: -981697735432642464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_11
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 80
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54b340a8a3046fa0800000000000000
+      internalID: -5808513596622916514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_12
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 77
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e3ded7c00261980800000000000000
+      internalID: -8568626003001393560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ed58ce134ab2730800000000000000
+      internalID: 3975451630413143616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc28fda1dd93f2e0800000000000000
+      internalID: -2093155877904700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_15
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 57
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0f70ca0ca531b0800000000000000
+      internalID: -5677442593051440497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_16
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 51
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5262f8033eedd640800000000000000
+      internalID: 5106499455468855900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_17
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b197b3cf8e9b44620800000000000000
+      internalID: 2757533282172893467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_18
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 49
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0cbcb2cd8df2420800000000000000
+      internalID: 2607541149409984761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Sci-Fi Modular Wall Segment-3_19
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 45
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87432e583c5a34980800000000000000
+      internalID: -8555812607890410376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gritty Sci-Fi Modular Wall Segment-3_0: 8551347906537803023
+      Gritty Sci-Fi Modular Wall Segment-3_1: 8395046472158769440
+      Gritty Sci-Fi Modular Wall Segment-3_10: -981697735432642464
+      Gritty Sci-Fi Modular Wall Segment-3_11: -5808513596622916514
+      Gritty Sci-Fi Modular Wall Segment-3_12: -8568626003001393560
+      Gritty Sci-Fi Modular Wall Segment-3_13: 3975451630413143616
+      Gritty Sci-Fi Modular Wall Segment-3_14: -2093155877904700202
+      Gritty Sci-Fi Modular Wall Segment-3_15: -5677442593051440497
+      Gritty Sci-Fi Modular Wall Segment-3_16: 5106499455468855900
+      Gritty Sci-Fi Modular Wall Segment-3_17: 2757533282172893467
+      Gritty Sci-Fi Modular Wall Segment-3_18: 2607541149409984761
+      Gritty Sci-Fi Modular Wall Segment-3_19: -8555812607890410376
+      Gritty Sci-Fi Modular Wall Segment-3_2: 7193847676076873196
+      Gritty Sci-Fi Modular Wall Segment-3_3: -7332122629894595788
+      Gritty Sci-Fi Modular Wall Segment-3_4: 7796254858093846725
+      Gritty Sci-Fi Modular Wall Segment-3_5: -7655549664830415721
+      Gritty Sci-Fi Modular Wall Segment-3_6: 3274288123691158734
+      Gritty Sci-Fi Modular Wall Segment-3_7: 7473242375852178152
+      Gritty Sci-Fi Modular Wall Segment-3_8: 7270102773028191624
+      Gritty Sci-Fi Modular Wall Segment-3_9: -3994843482980913236
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

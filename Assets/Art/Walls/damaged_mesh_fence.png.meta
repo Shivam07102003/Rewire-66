@@ -1,0 +1,2784 @@
+fileFormatVersion: 2
+guid: 58f159af8e85086478e2484cadeee409
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2632188278146723135
+    second: damaged_mesh_fence_0
+  - first:
+      213: 3482243232385249078
+    second: damaged_mesh_fence_1
+  - first:
+      213: 3032993393067840998
+    second: damaged_mesh_fence_2
+  - first:
+      213: -5201585117869582674
+    second: damaged_mesh_fence_3
+  - first:
+      213: -2191436060359547377
+    second: damaged_mesh_fence_4
+  - first:
+      213: -5319568899091602788
+    second: damaged_mesh_fence_5
+  - first:
+      213: -5305290468910325923
+    second: damaged_mesh_fence_6
+  - first:
+      213: -3098073893413006381
+    second: damaged_mesh_fence_7
+  - first:
+      213: -2173108805875135223
+    second: damaged_mesh_fence_8
+  - first:
+      213: -6804896390456064357
+    second: damaged_mesh_fence_9
+  - first:
+      213: 802656545104781115
+    second: damaged_mesh_fence_10
+  - first:
+      213: -8720238554675114446
+    second: damaged_mesh_fence_11
+  - first:
+      213: 3885299375910007798
+    second: damaged_mesh_fence_12
+  - first:
+      213: -8472035010299675771
+    second: damaged_mesh_fence_13
+  - first:
+      213: 93065828562028920
+    second: damaged_mesh_fence_14
+  - first:
+      213: -3871501621896422858
+    second: damaged_mesh_fence_15
+  - first:
+      213: -6328358428674625561
+    second: damaged_mesh_fence_16
+  - first:
+      213: 2541769155813110022
+    second: damaged_mesh_fence_17
+  - first:
+      213: -5166323078766829531
+    second: damaged_mesh_fence_18
+  - first:
+      213: 7155384187754764354
+    second: damaged_mesh_fence_19
+  - first:
+      213: -5287057793303901346
+    second: damaged_mesh_fence_20
+  - first:
+      213: -8692629033320349042
+    second: damaged_mesh_fence_21
+  - first:
+      213: -1770490710282935401
+    second: damaged_mesh_fence_22
+  - first:
+      213: -3070086314383587283
+    second: damaged_mesh_fence_23
+  - first:
+      213: 7350834410090423350
+    second: damaged_mesh_fence_24
+  - first:
+      213: 7350886554801562687
+    second: damaged_mesh_fence_25
+  - first:
+      213: -4819943531399544284
+    second: damaged_mesh_fence_26
+  - first:
+      213: -7668131692966747744
+    second: damaged_mesh_fence_27
+  - first:
+      213: 4364518750828764313
+    second: damaged_mesh_fence_28
+  - first:
+      213: -4594824686574789382
+    second: damaged_mesh_fence_29
+  - first:
+      213: 2536262811594490585
+    second: damaged_mesh_fence_30
+  - first:
+      213: -2093810938201652977
+    second: damaged_mesh_fence_31
+  - first:
+      213: 7855147387940949113
+    second: damaged_mesh_fence_32
+  - first:
+      213: 257742688237941499
+    second: damaged_mesh_fence_33
+  - first:
+      213: 3668841431463658427
+    second: damaged_mesh_fence_34
+  - first:
+      213: 8971070972193832312
+    second: damaged_mesh_fence_35
+  - first:
+      213: -5707868202566630977
+    second: damaged_mesh_fence_36
+  - first:
+      213: -7485695857234490209
+    second: damaged_mesh_fence_37
+  - first:
+      213: -94496793811708021
+    second: damaged_mesh_fence_38
+  - first:
+      213: -158163243757935395
+    second: damaged_mesh_fence_39
+  - first:
+      213: 3386167227152824543
+    second: damaged_mesh_fence_40
+  - first:
+      213: -998493995660007281
+    second: damaged_mesh_fence_41
+  - first:
+      213: 431686505781877250
+    second: damaged_mesh_fence_42
+  - first:
+      213: -3004636973873362956
+    second: damaged_mesh_fence_43
+  - first:
+      213: 2575384170590394875
+    second: damaged_mesh_fence_44
+  - first:
+      213: -2607528201115113860
+    second: damaged_mesh_fence_45
+  - first:
+      213: 1496199818652555639
+    second: damaged_mesh_fence_46
+  - first:
+      213: 4813105373361355394
+    second: damaged_mesh_fence_47
+  - first:
+      213: -4183220144504331246
+    second: damaged_mesh_fence_48
+  - first:
+      213: -3252796862223077065
+    second: damaged_mesh_fence_49
+  - first:
+      213: 6604305970656986796
+    second: damaged_mesh_fence_50
+  - first:
+      213: -135716157170503943
+    second: damaged_mesh_fence_51
+  - first:
+      213: 3541338883908971834
+    second: damaged_mesh_fence_52
+  - first:
+      213: 1165569214985627472
+    second: damaged_mesh_fence_53
+  - first:
+      213: 3316539439762037155
+    second: damaged_mesh_fence_54
+  - first:
+      213: -5097629079115027282
+    second: damaged_mesh_fence_55
+  - first:
+      213: 992236714867162306
+    second: damaged_mesh_fence_56
+  - first:
+      213: -4105499567450994007
+    second: damaged_mesh_fence_57
+  - first:
+      213: 7688575791198842098
+    second: damaged_mesh_fence_58
+  - first:
+      213: -1578341205374617156
+    second: damaged_mesh_fence_59
+  - first:
+      213: 7737334611611409248
+    second: damaged_mesh_fence_60
+  - first:
+      213: -4928957003600294520
+    second: damaged_mesh_fence_61
+  - first:
+      213: -798386706249182957
+    second: damaged_mesh_fence_62
+  - first:
+      213: 5773702462638526677
+    second: damaged_mesh_fence_63
+  - first:
+      213: -6975642360425072136
+    second: damaged_mesh_fence_64
+  - first:
+      213: -825174575858079613
+    second: damaged_mesh_fence_65
+  - first:
+      213: -9198130257506986751
+    second: damaged_mesh_fence_66
+  - first:
+      213: -4017633053093496950
+    second: damaged_mesh_fence_67
+  - first:
+      213: -1536200059068315425
+    second: damaged_mesh_fence_68
+  - first:
+      213: -4318092589596259994
+    second: damaged_mesh_fence_69
+  - first:
+      213: -7004982584207711921
+    second: damaged_mesh_fence_70
+  - first:
+      213: 4500262417056427199
+    second: damaged_mesh_fence_71
+  - first:
+      213: -5308905416042178504
+    second: damaged_mesh_fence_72
+  - first:
+      213: 1545642488586849543
+    second: damaged_mesh_fence_73
+  - first:
+      213: 6676066759984571844
+    second: damaged_mesh_fence_74
+  - first:
+      213: 1629126980871454189
+    second: damaged_mesh_fence_75
+  - first:
+      213: -80244849140739474
+    second: damaged_mesh_fence_76
+  - first:
+      213: -7113279973134531559
+    second: damaged_mesh_fence_77
+  - first:
+      213: 2600784832198250808
+    second: damaged_mesh_fence_78
+  - first:
+      213: 8965257727923809455
+    second: damaged_mesh_fence_79
+  - first:
+      213: 3100046675583531386
+    second: damaged_mesh_fence_80
+  - first:
+      213: 4603461780873257285
+    second: damaged_mesh_fence_81
+  - first:
+      213: -5058681669880236933
+    second: damaged_mesh_fence_82
+  - first:
+      213: 4648465834137363767
+    second: damaged_mesh_fence_83
+  - first:
+      213: 4098781449295464584
+    second: damaged_mesh_fence_84
+  - first:
+      213: 2940042167259832575
+    second: damaged_mesh_fence_85
+  - first:
+      213: 2493549390616008996
+    second: damaged_mesh_fence_86
+  - first:
+      213: -966091113281284094
+    second: damaged_mesh_fence_87
+  - first:
+      213: 9025119035069821435
+    second: damaged_mesh_fence_88
+  - first:
+      213: 7914168593916337044
+    second: damaged_mesh_fence_89
+  - first:
+      213: -4812022231385309730
+    second: damaged_mesh_fence_90
+  - first:
+      213: -5766445618165906993
+    second: damaged_mesh_fence_91
+  - first:
+      213: -4750743316222547065
+    second: damaged_mesh_fence_92
+  - first:
+      213: -8176901175496069640
+    second: damaged_mesh_fence_93
+  - first:
+      213: 8638906037348190354
+    second: damaged_mesh_fence_94
+  - first:
+      213: -8563958896814081422
+    second: damaged_mesh_fence_95
+  - first:
+      213: 4567015909099002242
+    second: damaged_mesh_fence_96
+  - first:
+      213: -5584918387329379317
+    second: damaged_mesh_fence_97
+  - first:
+      213: 92899036558263759
+    second: damaged_mesh_fence_98
+  - first:
+      213: 5394365624732732111
+    second: damaged_mesh_fence_99
+  - first:
+      213: -6077494340988349059
+    second: damaged_mesh_fence_100
+  - first:
+      213: -8675104444331001454
+    second: damaged_mesh_fence_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damaged_mesh_fence_0
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 681
+        width: 116
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c21e1bf4b6987bd0800000000000000
+      internalID: -2632188278146723135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_1
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 693
+        width: 91
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fa4d725c9635030800000000000000
+      internalID: 3482243232385249078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_2
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 693
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55ae7eb6b571a20800000000000000
+      internalID: 3032993393067840998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_3
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 689
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6dc6cf4e140d7b0800000000000000
+      internalID: -5201585117869582674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_4
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 714
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a94a83847691e0800000000000000
+      internalID: -2191436060359547377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_5
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 668
+        width: 217
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ed6345481d26b0800000000000000
+      internalID: -5319568899091602788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_6
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 662
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f955a5d62df56b0800000000000000
+      internalID: -5305290468910325923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 660
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d43f453e6105d0800000000000000
+      internalID: -3098073893413006381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 650
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d0a8ffd0197d1e0800000000000000
+      internalID: -2173108805875135223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 651
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96478969c62091a0800000000000000
+      internalID: -6804896390456064357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_10
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 672
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fdc9700eb932b00800000000000000
+      internalID: 802656545104781115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 679
+        width: 107
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e8cef7c3d7bf680800000000000000
+      internalID: -8720238554675114446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_12
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 668
+        width: 199
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3b92b723b5be530800000000000000
+      internalID: 3885299375910007798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_13
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 693
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b3a6e7b094d6a80800000000000000
+      internalID: -8472035010299675771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_14
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 668
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879ca24c0e2aa4100800000000000000
+      internalID: 93065828562028920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_15
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 693
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ad38779c9a54ac0800000000000000
+      internalID: -3871501621896422858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_16
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 668
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efef77c9872d28a0800000000000000
+      internalID: -6328358428674625561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 670
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601f841949d264320800000000000000
+      internalID: 2541769155813110022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_18
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 676
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520633f38888d48b0800000000000000
+      internalID: -5166323078766829531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_19
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 668
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d19602080d4360800000000000000
+      internalID: 7155384187754764354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2162
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b0923f2f890a6b0800000000000000
+      internalID: -5287057793303901346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 660
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8281b023f39d5780800000000000000
+      internalID: -8692629033320349042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_22
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 638
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793e4775414fd67e0800000000000000
+      internalID: -1770490710282935401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 652
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28c06953ccd465d0800000000000000
+      internalID: -3070086314383587283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 652
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634682813f8630660800000000000000
+      internalID: 7350834410090423350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34642bff58930660800000000000000
+      internalID: 7350886554801562687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_26
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 648
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4220d7535ee1c1db0800000000000000
+      internalID: -4819943531399544284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 630
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16dcd4ad2559590800000000000000
+      internalID: -7668131692966747744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_28
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 616
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c1eaefda2e19c30800000000000000
+      internalID: 4364518750828764313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_29
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 630
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc938fba47eb30c0800000000000000
+      internalID: -4594824686574789382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_30
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 624
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d28f16e69d923320800000000000000
+      internalID: 2536262811594490585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 622
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c9a19b0a41f2e0800000000000000
+      internalID: -2093810938201652977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_32
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 622
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cce845ee6130d60800000000000000
+      internalID: 7855147387940949113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_33
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 614
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf270effb9fa39300800000000000000
+      internalID: 257742688237941499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_34
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 619
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb380a3f7d75ae230800000000000000
+      internalID: 3668841431463658427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_35
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 612
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d7e68b485af7c70800000000000000
+      internalID: 8971070972193832312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c4418c1499c0b0800000000000000
+      internalID: -5707868202566630977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_37
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 120
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cccec57477d1890800000000000000
+      internalID: -7485695857234490209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 98
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87907caaa740bef0800000000000000
+      internalID: -94496793811708021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 100
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4e8472e571ecdf0800000000000000
+      internalID: -158163243757935395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8738407251efe20800000000000000
+      internalID: 3386167227152824543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_41
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 82
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88235e4003a422f0800000000000000
+      internalID: -998493995660007281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_42
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 86
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a557ff698adf500800000000000000
+      internalID: 431686505781877250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 43
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7064d67926d46d0800000000000000
+      internalID: -3004636973873362956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_44
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf95438124a9db320800000000000000
+      internalID: 2575384170590394875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_45
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 57
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7668b69ae230dbd0800000000000000
+      internalID: -2607528201115113860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 59
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7791acfcec193c410800000000000000
+      internalID: 1496199818652555639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_47
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 55
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3abd06d59bc240800000000000000
+      internalID: 4813105373361355394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_48
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214af85317732f5c0800000000000000
+      internalID: -4183220144504331246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_49
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 56
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73130b4ec7ebbd2d0800000000000000
+      internalID: -3252796862223077065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_50
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 61
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca640090a4537ab50800000000000000
+      internalID: 6604305970656986796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_51
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 62
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2295cfd6dd1ef0800000000000000
+      internalID: -135716157170503943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_52
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 61
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d2cacb3fc552130800000000000000
+      internalID: 3541338883908971834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_53
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 72
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057695c860fec2010800000000000000
+      internalID: 1165569214985627472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d6967c07b60e20800000000000000
+      internalID: 3316539439762037155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 49
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaca5a66c559149b0800000000000000
+      internalID: -5097629079115027282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_56
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 55
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccf1caf80225cd00800000000000000
+      internalID: 992236714867162306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_57
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa409035e55607c0800000000000000
+      internalID: -4105499567450994007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_58
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 45
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc231f32fe43ba60800000000000000
+      internalID: 7688575791198842098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 31
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9b84f390b981ae0800000000000000
+      internalID: -1578341205374617156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_60
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 54
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bde69c5d8806b60800000000000000
+      internalID: 7737334611611409248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_61
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 45
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d0b3f48b3d89bb0800000000000000
+      internalID: -4928957003600294520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_62
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 53
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119f9c458f8be4f0800000000000000
+      internalID: -798386706249182957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_63
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 49
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01e54accf402050800000000000000
+      internalID: 5773702462638526677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_64
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 47
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f932b25b3a813f90800000000000000
+      internalID: -6975642360425072136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_65
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 26
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388ab4068146c84f0800000000000000
+      internalID: -825174575858079613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_66
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105168bb34da95080800000000000000
+      internalID: -9198130257506986751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_67
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877e7846008e38c0800000000000000
+      internalID: -4017633053093496950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_68
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd88c477f225eaae0800000000000000
+      internalID: -1536200059068315425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_69
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 33
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6694ed10bad0314c0800000000000000
+      internalID: -4318092589596259994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 31
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f416082247d49ce90800000000000000
+      internalID: -7004982584207711921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_71
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc60bc23d4247e30800000000000000
+      internalID: 4500262417056427199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_72
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 39
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83898a2e6aaf256b0800000000000000
+      internalID: -5308905416042178504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_73
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 47
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d48f977a9337510800000000000000
+      internalID: 1545642488586849543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_74
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 45
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c56cadc85726ac50800000000000000
+      internalID: 6676066759984571844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_75
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 31
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf8dc8b52db9610800000000000000
+      internalID: 1629126980871454189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_76
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 50
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6259ef1cb9e2eef0800000000000000
+      internalID: -80244849140739474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_77
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 45
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9148a6d5d8d884d90800000000000000
+      internalID: -7113279973134531559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_78
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 43
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831966c7608d71420800000000000000
+      internalID: 2600784832198250808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_79
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 33
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac69b0576efa6c70800000000000000
+      internalID: 8965257727923809455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_80
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a797945d604950b20800000000000000
+      internalID: 3100046675583531386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_81
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 43
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a90a7918c2ef30800000000000000
+      internalID: 4603461780873257285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_82
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 47
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b743203c2d3fbc9b0800000000000000
+      internalID: -5058681669880236933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_83
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 47
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352c4a2c0ba28040800000000000000
+      internalID: 4648465834137363767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_84
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8888739030cc1e830800000000000000
+      internalID: 4098781449295464584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_85
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 49
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0213c26c02dc820800000000000000
+      internalID: 2940042167259832575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_86
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 27
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4291f8995fdda9220800000000000000
+      internalID: 2493549390616008996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_87
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 27
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20815344041c792f0800000000000000
+      internalID: -966091113281284094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_88
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 31
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f3fcf1f9af3d70800000000000000
+      internalID: 9025119035069821435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_89
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b9fe4b766c4dd60800000000000000
+      internalID: 7914168593916337044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_90
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddfef69643483db0800000000000000
+      internalID: -4812022231385309730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_91
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc10d90234879ffa0800000000000000
+      internalID: -5766445618165906993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_92
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b6e79df18f11eb0800000000000000
+      internalID: -4750743316222547065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_93
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd251734bfc58e80800000000000000
+      internalID: -8176901175496069640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_94
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 33
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298cd14254f83e770800000000000000
+      internalID: 8638906037348190354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_95
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 33
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ab954d1c4b62980800000000000000
+      internalID: -8563958896814081422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_96
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895761b5cc416f30800000000000000
+      internalID: 4567015909099002242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_97
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 33
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b045faf11526e72b0800000000000000
+      internalID: -5584918387329379317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_98
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 32
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5080a7e2b0a4100800000000000000
+      internalID: 92899036558263759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_99
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 31
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac5c284f2acda40800000000000000
+      internalID: 5394365624732732111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_100
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 29
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7551f8c81768aba0800000000000000
+      internalID: -6077494340988349059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damaged_mesh_fence_101
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299fc367876db9780800000000000000
+      internalID: -8675104444331001454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      damaged_mesh_fence_0: -2632188278146723135
+      damaged_mesh_fence_1: 3482243232385249078
+      damaged_mesh_fence_10: 802656545104781115
+      damaged_mesh_fence_100: -6077494340988349059
+      damaged_mesh_fence_101: -8675104444331001454
+      damaged_mesh_fence_11: -8720238554675114446
+      damaged_mesh_fence_12: 3885299375910007798
+      damaged_mesh_fence_13: -8472035010299675771
+      damaged_mesh_fence_14: 93065828562028920
+      damaged_mesh_fence_15: -3871501621896422858
+      damaged_mesh_fence_16: -6328358428674625561
+      damaged_mesh_fence_17: 2541769155813110022
+      damaged_mesh_fence_18: -5166323078766829531
+      damaged_mesh_fence_19: 7155384187754764354
+      damaged_mesh_fence_2: 3032993393067840998
+      damaged_mesh_fence_20: -5287057793303901346
+      damaged_mesh_fence_21: -8692629033320349042
+      damaged_mesh_fence_22: -1770490710282935401
+      damaged_mesh_fence_23: -3070086314383587283
+      damaged_mesh_fence_24: 7350834410090423350
+      damaged_mesh_fence_25: 7350886554801562687
+      damaged_mesh_fence_26: -4819943531399544284
+      damaged_mesh_fence_27: -7668131692966747744
+      damaged_mesh_fence_28: 4364518750828764313
+      damaged_mesh_fence_29: -4594824686574789382
+      damaged_mesh_fence_3: -5201585117869582674
+      damaged_mesh_fence_30: 2536262811594490585
+      damaged_mesh_fence_31: -2093810938201652977
+      damaged_mesh_fence_32: 7855147387940949113
+      damaged_mesh_fence_33: 257742688237941499
+      damaged_mesh_fence_34: 3668841431463658427
+      damaged_mesh_fence_35: 8971070972193832312
+      damaged_mesh_fence_36: -5707868202566630977
+      damaged_mesh_fence_37: -7485695857234490209
+      damaged_mesh_fence_38: -94496793811708021
+      damaged_mesh_fence_39: -158163243757935395
+      damaged_mesh_fence_4: -2191436060359547377
+      damaged_mesh_fence_40: 3386167227152824543
+      damaged_mesh_fence_41: -998493995660007281
+      damaged_mesh_fence_42: 431686505781877250
+      damaged_mesh_fence_43: -3004636973873362956
+      damaged_mesh_fence_44: 2575384170590394875
+      damaged_mesh_fence_45: -2607528201115113860
+      damaged_mesh_fence_46: 1496199818652555639
+      damaged_mesh_fence_47: 4813105373361355394
+      damaged_mesh_fence_48: -4183220144504331246
+      damaged_mesh_fence_49: -3252796862223077065
+      damaged_mesh_fence_5: -5319568899091602788
+      damaged_mesh_fence_50: 6604305970656986796
+      damaged_mesh_fence_51: -135716157170503943
+      damaged_mesh_fence_52: 3541338883908971834
+      damaged_mesh_fence_53: 1165569214985627472
+      damaged_mesh_fence_54: 3316539439762037155
+      damaged_mesh_fence_55: -5097629079115027282
+      damaged_mesh_fence_56: 992236714867162306
+      damaged_mesh_fence_57: -4105499567450994007
+      damaged_mesh_fence_58: 7688575791198842098
+      damaged_mesh_fence_59: -1578341205374617156
+      damaged_mesh_fence_6: -5305290468910325923
+      damaged_mesh_fence_60: 7737334611611409248
+      damaged_mesh_fence_61: -4928957003600294520
+      damaged_mesh_fence_62: -798386706249182957
+      damaged_mesh_fence_63: 5773702462638526677
+      damaged_mesh_fence_64: -6975642360425072136
+      damaged_mesh_fence_65: -825174575858079613
+      damaged_mesh_fence_66: -9198130257506986751
+      damaged_mesh_fence_67: -4017633053093496950
+      damaged_mesh_fence_68: -1536200059068315425
+      damaged_mesh_fence_69: -4318092589596259994
+      damaged_mesh_fence_7: -3098073893413006381
+      damaged_mesh_fence_70: -7004982584207711921
+      damaged_mesh_fence_71: 4500262417056427199
+      damaged_mesh_fence_72: -5308905416042178504
+      damaged_mesh_fence_73: 1545642488586849543
+      damaged_mesh_fence_74: 6676066759984571844
+      damaged_mesh_fence_75: 1629126980871454189
+      damaged_mesh_fence_76: -80244849140739474
+      damaged_mesh_fence_77: -7113279973134531559
+      damaged_mesh_fence_78: 2600784832198250808
+      damaged_mesh_fence_79: 8965257727923809455
+      damaged_mesh_fence_8: -2173108805875135223
+      damaged_mesh_fence_80: 3100046675583531386
+      damaged_mesh_fence_81: 4603461780873257285
+      damaged_mesh_fence_82: -5058681669880236933
+      damaged_mesh_fence_83: 4648465834137363767
+      damaged_mesh_fence_84: 4098781449295464584
+      damaged_mesh_fence_85: 2940042167259832575
+      damaged_mesh_fence_86: 2493549390616008996
+      damaged_mesh_fence_87: -966091113281284094
+      damaged_mesh_fence_88: 9025119035069821435
+      damaged_mesh_fence_89: 7914168593916337044
+      damaged_mesh_fence_9: -6804896390456064357
+      damaged_mesh_fence_90: -4812022231385309730
+      damaged_mesh_fence_91: -5766445618165906993
+      damaged_mesh_fence_92: -4750743316222547065
+      damaged_mesh_fence_93: -8176901175496069640
+      damaged_mesh_fence_94: 8638906037348190354
+      damaged_mesh_fence_95: -8563958896814081422
+      damaged_mesh_fence_96: 4567015909099002242
+      damaged_mesh_fence_97: -5584918387329379317
+      damaged_mesh_fence_98: 92899036558263759
+      damaged_mesh_fence_99: 5394365624732732111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4214 @@
+fileFormatVersion: 2
+guid: ce70b2c93d35bce4281de73ea913520c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4241006132632640421
+    second: Gritty Modular Industrial Wall Segment-2_0
+  - first:
+      213: -5334189837479594398
+    second: Gritty Modular Industrial Wall Segment-2_1
+  - first:
+      213: -751555029846243838
+    second: Gritty Modular Industrial Wall Segment-2_2
+  - first:
+      213: 4024535381175608578
+    second: Gritty Modular Industrial Wall Segment-2_3
+  - first:
+      213: 6082994958401104034
+    second: Gritty Modular Industrial Wall Segment-2_4
+  - first:
+      213: 7936660526772682898
+    second: Gritty Modular Industrial Wall Segment-2_5
+  - first:
+      213: -4199528178635723602
+    second: Gritty Modular Industrial Wall Segment-2_6
+  - first:
+      213: 213135373888473214
+    second: Gritty Modular Industrial Wall Segment-2_7
+  - first:
+      213: 2882261025298494222
+    second: Gritty Modular Industrial Wall Segment-2_8
+  - first:
+      213: -5872913326799730511
+    second: Gritty Modular Industrial Wall Segment-2_9
+  - first:
+      213: 5059941533550443445
+    second: Gritty Modular Industrial Wall Segment-2_10
+  - first:
+      213: -4588056418767252355
+    second: Gritty Modular Industrial Wall Segment-2_11
+  - first:
+      213: 8740624540129810397
+    second: Gritty Modular Industrial Wall Segment-2_12
+  - first:
+      213: -4412792171856653005
+    second: Gritty Modular Industrial Wall Segment-2_13
+  - first:
+      213: 6821523798572474310
+    second: Gritty Modular Industrial Wall Segment-2_14
+  - first:
+      213: 7926180195992902832
+    second: Gritty Modular Industrial Wall Segment-2_15
+  - first:
+      213: 3834483227195124158
+    second: Gritty Modular Industrial Wall Segment-2_16
+  - first:
+      213: -1297058450840551979
+    second: Gritty Modular Industrial Wall Segment-2_17
+  - first:
+      213: -2510849703872522662
+    second: Gritty Modular Industrial Wall Segment-2_18
+  - first:
+      213: -5054075714367141703
+    second: Gritty Modular Industrial Wall Segment-2_19
+  - first:
+      213: 9159627785975922503
+    second: Gritty Modular Industrial Wall Segment-2_20
+  - first:
+      213: -2120487893729333218
+    second: Gritty Modular Industrial Wall Segment-2_21
+  - first:
+      213: -4372813012718148089
+    second: Gritty Modular Industrial Wall Segment-2_22
+  - first:
+      213: 1661913311823204605
+    second: Gritty Modular Industrial Wall Segment-2_23
+  - first:
+      213: -863470176566136218
+    second: Gritty Modular Industrial Wall Segment-2_24
+  - first:
+      213: -6527998416546901035
+    second: Gritty Modular Industrial Wall Segment-2_25
+  - first:
+      213: 3668389200964494629
+    second: Gritty Modular Industrial Wall Segment-2_26
+  - first:
+      213: 5079458250316387062
+    second: Gritty Modular Industrial Wall Segment-2_27
+  - first:
+      213: 8085373692678299458
+    second: Gritty Modular Industrial Wall Segment-2_28
+  - first:
+      213: -317389123083798448
+    second: Gritty Modular Industrial Wall Segment-2_29
+  - first:
+      213: 6075618428778994741
+    second: Gritty Modular Industrial Wall Segment-2_30
+  - first:
+      213: -6146750887007714492
+    second: Gritty Modular Industrial Wall Segment-2_31
+  - first:
+      213: 6489830999128938473
+    second: Gritty Modular Industrial Wall Segment-2_32
+  - first:
+      213: 5853293369268686595
+    second: Gritty Modular Industrial Wall Segment-2_33
+  - first:
+      213: 9215464495137321229
+    second: Gritty Modular Industrial Wall Segment-2_34
+  - first:
+      213: -8862774399223937260
+    second: Gritty Modular Industrial Wall Segment-2_35
+  - first:
+      213: 4926911096746101557
+    second: Gritty Modular Industrial Wall Segment-2_36
+  - first:
+      213: 7500770244899890388
+    second: Gritty Modular Industrial Wall Segment-2_37
+  - first:
+      213: -5688545665723637348
+    second: Gritty Modular Industrial Wall Segment-2_38
+  - first:
+      213: -1117502556841864663
+    second: Gritty Modular Industrial Wall Segment-2_39
+  - first:
+      213: -6550131318562244150
+    second: Gritty Modular Industrial Wall Segment-2_40
+  - first:
+      213: 4367318190394796852
+    second: Gritty Modular Industrial Wall Segment-2_41
+  - first:
+      213: 5738873572949898844
+    second: Gritty Modular Industrial Wall Segment-2_42
+  - first:
+      213: -2864747985360769256
+    second: Gritty Modular Industrial Wall Segment-2_43
+  - first:
+      213: -7241490472331031854
+    second: Gritty Modular Industrial Wall Segment-2_44
+  - first:
+      213: 8192942612687476654
+    second: Gritty Modular Industrial Wall Segment-2_45
+  - first:
+      213: 7866876560323672803
+    second: Gritty Modular Industrial Wall Segment-2_46
+  - first:
+      213: -2165717959567489514
+    second: Gritty Modular Industrial Wall Segment-2_47
+  - first:
+      213: 5227377588209189605
+    second: Gritty Modular Industrial Wall Segment-2_48
+  - first:
+      213: -8239470275998549573
+    second: Gritty Modular Industrial Wall Segment-2_49
+  - first:
+      213: -8040448231242772957
+    second: Gritty Modular Industrial Wall Segment-2_50
+  - first:
+      213: 5081105469737632706
+    second: Gritty Modular Industrial Wall Segment-2_51
+  - first:
+      213: 7826398320776783617
+    second: Gritty Modular Industrial Wall Segment-2_52
+  - first:
+      213: 7708405252629165886
+    second: Gritty Modular Industrial Wall Segment-2_53
+  - first:
+      213: 8480386279959252540
+    second: Gritty Modular Industrial Wall Segment-2_54
+  - first:
+      213: -8457202946780922627
+    second: Gritty Modular Industrial Wall Segment-2_55
+  - first:
+      213: -1704070480806247569
+    second: Gritty Modular Industrial Wall Segment-2_56
+  - first:
+      213: -8337867425235287602
+    second: Gritty Modular Industrial Wall Segment-2_57
+  - first:
+      213: -4049287926648329874
+    second: Gritty Modular Industrial Wall Segment-2_58
+  - first:
+      213: 4860925624096448757
+    second: Gritty Modular Industrial Wall Segment-2_59
+  - first:
+      213: -4461432856895947299
+    second: Gritty Modular Industrial Wall Segment-2_60
+  - first:
+      213: -2708366770116260276
+    second: Gritty Modular Industrial Wall Segment-2_61
+  - first:
+      213: -5947791742340032351
+    second: Gritty Modular Industrial Wall Segment-2_62
+  - first:
+      213: -4444844551819115135
+    second: Gritty Modular Industrial Wall Segment-2_63
+  - first:
+      213: 8096524348952658865
+    second: Gritty Modular Industrial Wall Segment-2_64
+  - first:
+      213: -1749142120823269320
+    second: Gritty Modular Industrial Wall Segment-2_65
+  - first:
+      213: 7614085621688783689
+    second: Gritty Modular Industrial Wall Segment-2_66
+  - first:
+      213: 3520294270796584685
+    second: Gritty Modular Industrial Wall Segment-2_67
+  - first:
+      213: -1376179229421312403
+    second: Gritty Modular Industrial Wall Segment-2_68
+  - first:
+      213: 8446426350130146276
+    second: Gritty Modular Industrial Wall Segment-2_69
+  - first:
+      213: -3926165839225749807
+    second: Gritty Modular Industrial Wall Segment-2_70
+  - first:
+      213: 6445110150984661213
+    second: Gritty Modular Industrial Wall Segment-2_71
+  - first:
+      213: -1099070172997350333
+    second: Gritty Modular Industrial Wall Segment-2_72
+  - first:
+      213: -5340624253417289124
+    second: Gritty Modular Industrial Wall Segment-2_73
+  - first:
+      213: 4346947593354601688
+    second: Gritty Modular Industrial Wall Segment-2_74
+  - first:
+      213: -1416154963682758811
+    second: Gritty Modular Industrial Wall Segment-2_75
+  - first:
+      213: -2690862081470421848
+    second: Gritty Modular Industrial Wall Segment-2_76
+  - first:
+      213: 536766212578564825
+    second: Gritty Modular Industrial Wall Segment-2_77
+  - first:
+      213: -6226161744749236180
+    second: Gritty Modular Industrial Wall Segment-2_78
+  - first:
+      213: -5096521173092599959
+    second: Gritty Modular Industrial Wall Segment-2_79
+  - first:
+      213: 5492011457765431265
+    second: Gritty Modular Industrial Wall Segment-2_80
+  - first:
+      213: -1864063856178998509
+    second: Gritty Modular Industrial Wall Segment-2_81
+  - first:
+      213: 2906250058213415079
+    second: Gritty Modular Industrial Wall Segment-2_82
+  - first:
+      213: -7438588637784722094
+    second: Gritty Modular Industrial Wall Segment-2_83
+  - first:
+      213: -6391148822502054386
+    second: Gritty Modular Industrial Wall Segment-2_84
+  - first:
+      213: 5545951380141152927
+    second: Gritty Modular Industrial Wall Segment-2_85
+  - first:
+      213: 6386816204454165364
+    second: Gritty Modular Industrial Wall Segment-2_86
+  - first:
+      213: 7049026025396528492
+    second: Gritty Modular Industrial Wall Segment-2_87
+  - first:
+      213: 4198202110888801132
+    second: Gritty Modular Industrial Wall Segment-2_88
+  - first:
+      213: 2034796462263557419
+    second: Gritty Modular Industrial Wall Segment-2_89
+  - first:
+      213: 3504808844951332033
+    second: Gritty Modular Industrial Wall Segment-2_90
+  - first:
+      213: 4277251984355057270
+    second: Gritty Modular Industrial Wall Segment-2_91
+  - first:
+      213: -8098507833568299594
+    second: Gritty Modular Industrial Wall Segment-2_92
+  - first:
+      213: 3350616934420837450
+    second: Gritty Modular Industrial Wall Segment-2_93
+  - first:
+      213: -8285596534732247009
+    second: Gritty Modular Industrial Wall Segment-2_94
+  - first:
+      213: -4649873546134931867
+    second: Gritty Modular Industrial Wall Segment-2_95
+  - first:
+      213: 6343075087505142134
+    second: Gritty Modular Industrial Wall Segment-2_96
+  - first:
+      213: -3655122197561953446
+    second: Gritty Modular Industrial Wall Segment-2_97
+  - first:
+      213: -823956803869420607
+    second: Gritty Modular Industrial Wall Segment-2_98
+  - first:
+      213: -5041630263070350711
+    second: Gritty Modular Industrial Wall Segment-2_99
+  - first:
+      213: 4270173823183291427
+    second: Gritty Modular Industrial Wall Segment-2_100
+  - first:
+      213: -7562205646120318917
+    second: Gritty Modular Industrial Wall Segment-2_101
+  - first:
+      213: 9051497608447653446
+    second: Gritty Modular Industrial Wall Segment-2_102
+  - first:
+      213: -1121909663194443056
+    second: Gritty Modular Industrial Wall Segment-2_103
+  - first:
+      213: 7423705112029634496
+    second: Gritty Modular Industrial Wall Segment-2_104
+  - first:
+      213: 5484251223107569437
+    second: Gritty Modular Industrial Wall Segment-2_105
+  - first:
+      213: -1542560002384339923
+    second: Gritty Modular Industrial Wall Segment-2_106
+  - first:
+      213: -5954142672729883400
+    second: Gritty Modular Industrial Wall Segment-2_107
+  - first:
+      213: -4285592498828129480
+    second: Gritty Modular Industrial Wall Segment-2_108
+  - first:
+      213: -8016312661622356803
+    second: Gritty Modular Industrial Wall Segment-2_109
+  - first:
+      213: 730650734374809834
+    second: Gritty Modular Industrial Wall Segment-2_110
+  - first:
+      213: 9182809992323567420
+    second: Gritty Modular Industrial Wall Segment-2_111
+  - first:
+      213: 638377232353701821
+    second: Gritty Modular Industrial Wall Segment-2_112
+  - first:
+      213: -4383492948430129283
+    second: Gritty Modular Industrial Wall Segment-2_113
+  - first:
+      213: -7349574590208309212
+    second: Gritty Modular Industrial Wall Segment-2_114
+  - first:
+      213: -2548084525369053703
+    second: Gritty Modular Industrial Wall Segment-2_115
+  - first:
+      213: 7186158133841052797
+    second: Gritty Modular Industrial Wall Segment-2_116
+  - first:
+      213: 8672117903310213965
+    second: Gritty Modular Industrial Wall Segment-2_117
+  - first:
+      213: 2636599537497396811
+    second: Gritty Modular Industrial Wall Segment-2_118
+  - first:
+      213: 3262564300387567759
+    second: Gritty Modular Industrial Wall Segment-2_119
+  - first:
+      213: 5495736386021236217
+    second: Gritty Modular Industrial Wall Segment-2_120
+  - first:
+      213: 8848116534669598340
+    second: Gritty Modular Industrial Wall Segment-2_121
+  - first:
+      213: -9060132458359153775
+    second: Gritty Modular Industrial Wall Segment-2_122
+  - first:
+      213: 9211950895678165393
+    second: Gritty Modular Industrial Wall Segment-2_123
+  - first:
+      213: -3348607881896069228
+    second: Gritty Modular Industrial Wall Segment-2_124
+  - first:
+      213: 1339094671261078765
+    second: Gritty Modular Industrial Wall Segment-2_125
+  - first:
+      213: -5501594630403626190
+    second: Gritty Modular Industrial Wall Segment-2_126
+  - first:
+      213: -5907442098237412608
+    second: Gritty Modular Industrial Wall Segment-2_127
+  - first:
+      213: 1457157511853374901
+    second: Gritty Modular Industrial Wall Segment-2_128
+  - first:
+      213: -5767049155545326804
+    second: Gritty Modular Industrial Wall Segment-2_129
+  - first:
+      213: -2146245113239166476
+    second: Gritty Modular Industrial Wall Segment-2_130
+  - first:
+      213: 3166791601163642902
+    second: Gritty Modular Industrial Wall Segment-2_131
+  - first:
+      213: -5418833180965442586
+    second: Gritty Modular Industrial Wall Segment-2_132
+  - first:
+      213: 5137846414808771559
+    second: Gritty Modular Industrial Wall Segment-2_133
+  - first:
+      213: -3453077802471886277
+    second: Gritty Modular Industrial Wall Segment-2_134
+  - first:
+      213: -1707717427688297275
+    second: Gritty Modular Industrial Wall Segment-2_135
+  - first:
+      213: -7609046731646270160
+    second: Gritty Modular Industrial Wall Segment-2_136
+  - first:
+      213: 8596073575768570438
+    second: Gritty Modular Industrial Wall Segment-2_137
+  - first:
+      213: 6330240524865129322
+    second: Gritty Modular Industrial Wall Segment-2_138
+  - first:
+      213: 6842951342214315449
+    second: Gritty Modular Industrial Wall Segment-2_139
+  - first:
+      213: 5529983251898020757
+    second: Gritty Modular Industrial Wall Segment-2_140
+  - first:
+      213: -8360124387548896239
+    second: Gritty Modular Industrial Wall Segment-2_141
+  - first:
+      213: 3838404409911196077
+    second: Gritty Modular Industrial Wall Segment-2_142
+  - first:
+      213: -6673066190687577915
+    second: Gritty Modular Industrial Wall Segment-2_143
+  - first:
+      213: -5152175678295873086
+    second: Gritty Modular Industrial Wall Segment-2_144
+  - first:
+      213: 1154218954771888797
+    second: Gritty Modular Industrial Wall Segment-2_145
+  - first:
+      213: 3350647269099650729
+    second: Gritty Modular Industrial Wall Segment-2_146
+  - first:
+      213: -2982110425316330670
+    second: Gritty Modular Industrial Wall Segment-2_147
+  - first:
+      213: 5467348739241286624
+    second: Gritty Modular Industrial Wall Segment-2_148
+  - first:
+      213: 358188956794136681
+    second: Gritty Modular Industrial Wall Segment-2_149
+  - first:
+      213: 544291576620278552
+    second: Gritty Modular Industrial Wall Segment-2_150
+  - first:
+      213: -4149951856318054051
+    second: Gritty Modular Industrial Wall Segment-2_151
+  - first:
+      213: 1711187805256837951
+    second: Gritty Modular Industrial Wall Segment-2_152
+  - first:
+      213: -381286662397177714
+    second: Gritty Modular Industrial Wall Segment-2_153
+  - first:
+      213: -4380063169262314730
+    second: Gritty Modular Industrial Wall Segment-2_154
+  - first:
+      213: 3322101349137411690
+    second: Gritty Modular Industrial Wall Segment-2_155
+  - first:
+      213: -6405519750851897352
+    second: Gritty Modular Industrial Wall Segment-2_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 624
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab52d99b941bda30800000000000000
+      internalID: 4241006132632640421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 699
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266b784ca9629f5b0800000000000000
+      internalID: -5334189837479594398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 703
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2064bd8aea0f195f0800000000000000
+      internalID: -751555029846243838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 594
+        width: 154
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205a6f43b950ad730800000000000000
+      internalID: 4024535381175608578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 570
+        width: 184
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86df18fa32b6450800000000000000
+      internalID: 6082994958401104034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_5
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 699
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2908629e2bea42e60800000000000000
+      internalID: 7936660526772682898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_6
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 559
+        width: 113
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacac202f5748b5c0800000000000000
+      internalID: -4199528178635723602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_7
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 580
+        width: 97
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7841b94e7535f200800000000000000
+      internalID: 213135373888473214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 693
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03bed2b129dff720800000000000000
+      internalID: 2882261025298494222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_9
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 712
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c17ff1783f7ea0800000000000000
+      internalID: -5872913326799730511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_10
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 715
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbf48b1406883640800000000000000
+      internalID: 5059941533550443445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_11
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 616
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d745de5eef2f350c0800000000000000
+      internalID: -4588056418767252355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_12
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 693
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7df7d95bfec4970800000000000000
+      internalID: 8740624540129810397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_13
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 708
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3351cd056ec92c2c0800000000000000
+      internalID: -4412792171856653005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_14
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 709
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf19c8b0cbeaae50800000000000000
+      internalID: 6821523798572474310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 556
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc94efb4e27ffd60800000000000000
+      internalID: 7926180195992902832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 645
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a82edd22d63530800000000000000
+      internalID: 3834483227195124158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 621
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddfab8063ceffde0800000000000000
+      internalID: -1297058450840551979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 640
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5698445f7ba72dd0800000000000000
+      internalID: -2510849703872522662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 628
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8c7395ae05cd9b0800000000000000
+      internalID: -5054075714367141703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 578
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f74e901f88d1f70800000000000000
+      internalID: 9159627785975922503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 681
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103fb7de738292e0800000000000000
+      internalID: -2120487893729333218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 649
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706aabbabb5a053c0800000000000000
+      internalID: -4372813012718148089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 651
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df017b61a5d401710800000000000000
+      internalID: 1661913311823204605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 620
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b1a303765404f0800000000000000
+      internalID: -863470176566136218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 578
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3d867e604e765a0800000000000000
+      internalID: -6527998416546901035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 578
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5252e55da8cb8e230800000000000000
+      internalID: 3668389200964494629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 681
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f21985dd5cdd7640800000000000000
+      internalID: 5079458250316387062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 675
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd06c0984053070800000000000000
+      internalID: 8085373692678299458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_29
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 645
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058740f2648689bf0800000000000000
+      internalID: -317389123083798448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_30
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 568
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c503e55cee05450800000000000000
+      internalID: 6075618428778994741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 580
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443861992aa52baa0800000000000000
+      internalID: -6146750887007714492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_32
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 584
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7166bb8e2801a50800000000000000
+      internalID: 6489830999128938473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_33
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 578
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc869ae431b3150800000000000000
+      internalID: 5853293369268686595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_34
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 574
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0172e8f128e3ef70800000000000000
+      internalID: 9215464495137321229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_35
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 618
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c4d114a9110580800000000000000
+      internalID: -8862774399223937260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 576
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b4b71e987ef5440800000000000000
+      internalID: 4926911096746101557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_37
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 566
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e3150cc6181860800000000000000
+      internalID: 7500770244899890388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_38
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 646
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9164f13bd93e01b0800000000000000
+      internalID: -5688545665723637348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 618
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92299d76855dd70f0800000000000000
+      internalID: -1117502556841864663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_40
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 612
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9bfe415424915a0800000000000000
+      internalID: -6550131318562244150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_41
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 604
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b659f41c4db9c30800000000000000
+      internalID: 4367318190394796852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_42
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 578
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c563e86db1394af40800000000000000
+      internalID: 5738873572949898844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_43
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 667
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f2e89a2ee5e38d0800000000000000
+      internalID: -2864747985360769256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_44
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 616
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da455058ce018b90800000000000000
+      internalID: -7241490472331031854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_45
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 560
+        width: 119
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d56ee5ed23b170800000000000000
+      internalID: 8192942612687476654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_46
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 642
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea70f51d82cc2d60800000000000000
+      internalID: 7866876560323672803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_47
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 689
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616cb408df2d1f1e0800000000000000
+      internalID: -2165717959567489514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_48
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 645
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e20c0c78306b8840800000000000000
+      internalID: 5227377588209189605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_49
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 689
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb977b5407587ad80800000000000000
+      internalID: -8239470275998549573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_50
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 644
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e4bdd0fe69a6090800000000000000
+      internalID: -8040448231242772957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_51
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 592
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3810ef086b38640800000000000000
+      internalID: 5081105469737632706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_52
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 620
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1072d948ec3fc9c60800000000000000
+      internalID: 7826398320776783617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_53
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 612
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3777b38cb1c9fa60800000000000000
+      internalID: 7708405252629165886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_54
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 560
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e411ff36260b570800000000000000
+      internalID: 8480386279959252540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_55
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 616
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc7cb36abaf1aa80800000000000000
+      internalID: -8457202946780922627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_56
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 578
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63805f1dece958e0800000000000000
+      internalID: -1704070480806247569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_57
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 584
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cc8ea0c1f94c80800000000000000
+      internalID: -8337867425235287602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_58
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 580
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6929d2b51a0ec7c0800000000000000
+      internalID: -4049287926648329874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_59
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 570
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ecdfc91a757340800000000000000
+      internalID: 4860925624096448757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_60
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 600
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf57f447ec512c0800000000000000
+      internalID: -4461432856895947299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_61
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 689
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e8fb9a5c2f96ad0800000000000000
+      internalID: -2708366770116260276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_62
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 675
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a812df4ce2357da0800000000000000
+      internalID: -5947791742340032351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_63
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 582
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185cdfe0e6db052c0800000000000000
+      internalID: -4444844551819115135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_64
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 582
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3cf968ff1ac5070800000000000000
+      internalID: 8096524348952658865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_65
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 584
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d7aa228cc9b7e0800000000000000
+      internalID: -1749142120823269320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_66
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 562
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9435b22288aaaa960800000000000000
+      internalID: 7614085621688783689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_67
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 626
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65cabecf89ad030800000000000000
+      internalID: 3520294270796584685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_68
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 570
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66621b3844d6ece0800000000000000
+      internalID: -1376179229421312403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_69
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba10da30cb73570800000000000000
+      internalID: 8446426350130146276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_70
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 628
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1defcaf88f47389c0800000000000000
+      internalID: -3926165839225749807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_71
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 626
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd874bfd881a17950800000000000000
+      internalID: 6445110150984661213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_72
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 586
+        width: 108
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c044330815fb0f0800000000000000
+      internalID: -1099070172997350333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_73
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 683
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0a30998a42e5b0800000000000000
+      internalID: -5340624253417289124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_74
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 681
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4e3271ec5735c30800000000000000
+      internalID: 4346947593354601688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2141
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f68ca409ec85ce0800000000000000
+      internalID: -1416154963682758811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a42366913328aad0800000000000000
+      internalID: -2690862081470421848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da5d24c60af27700800000000000000
+      internalID: 536766212578564825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20781a71ea3899a0800000000000000
+      internalID: -6226161744749236180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967fe8fdef48549b0800000000000000
+      internalID: -5096521173092599959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_80
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7db7aa25b873c40800000000000000
+      internalID: 5492011457765431265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 31
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135ecd8cc38126e0800000000000000
+      internalID: -1864063856178998509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d44ca703155820800000000000000
+      internalID: 2906250058213415079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b5969b03d4c890800000000000000
+      internalID: -7438588637784722094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06eb18f1041e47a0800000000000000
+      internalID: -6391148822502054386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_85
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a96e2856d27fc40800000000000000
+      internalID: 5545951380141152927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 33
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf238cf7782a850800000000000000
+      internalID: 6386816204454165364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_87
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 31
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c656e30a2db23d160800000000000000
+      internalID: 7049026025396528492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6372daa392034a30800000000000000
+      internalID: 4198202110888801132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_89
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 45
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dd0730a9c0d3c10800000000000000
+      internalID: 2034796462263557419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 62
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4a8f0431593a030800000000000000
+      internalID: 3504808844951332033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e5156940adb5b30800000000000000
+      internalID: 4277251984355057270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_92
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5717978025c9f80800000000000000
+      internalID: -8098507833568299594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_93
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 61
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ff8a7958cf7e20800000000000000
+      internalID: 3350616934420837450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_94
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b313c9d5a30d80800000000000000
+      internalID: -8285596534732247009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_95
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 31
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566342855a4587fb0800000000000000
+      internalID: -4649873546134931867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_96
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671bf5e5f21270850800000000000000
+      internalID: 6343075087505142134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_97
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 31
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53bcab1ab5664dc0800000000000000
+      internalID: -3655122197561953446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_98
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3d81307a7b094f0800000000000000
+      internalID: -823956803869420607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_99
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 39
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98225d8ccf7880ab0800000000000000
+      internalID: -5041630263070350711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_100
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 23
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3240304c774b24b30800000000000000
+      internalID: 4270173823183291427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_101
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b388b88f706ad0790800000000000000
+      internalID: -7562205646120318917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_102
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 51
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646f1d43e116d9d70800000000000000
+      internalID: 9051497608447653446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_103
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 48
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2973ffa1d2e60f0800000000000000
+      internalID: -1121909663194443056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_104
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 25
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf17c7877c460760800000000000000
+      internalID: 7423705112029634496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_105
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 25
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17045c3e69fb1c40800000000000000
+      internalID: 5484251223107569437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_106
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 33
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd725c9d9b79ae0800000000000000
+      internalID: -1542560002384339923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_107
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 96
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcb0f919c2ae5da0800000000000000
+      internalID: -5954142672729883400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_108
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 23
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b454f04548684c0800000000000000
+      internalID: -4285592498828129480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_109
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 29
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db488834b1650c090800000000000000
+      internalID: -8016312661622356803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_110
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0f945c8fac32a00800000000000000
+      internalID: 730650734374809834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_111
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f8a501905ef6f70800000000000000
+      internalID: 9182809992323567420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_112
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 81
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfa327e5b8fbd800800000000000000
+      internalID: 638377232353701821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_113
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 82
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77746d5364ba23c0800000000000000
+      internalID: -4383492948430129283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_114
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 26
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428856499d0110a90800000000000000
+      internalID: -7349574590208309212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_115
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 43
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd25bfdf9263acd0800000000000000
+      internalID: -2548084525369053703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_116
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744163bfbc5ab360800000000000000
+      internalID: 7186158133841052797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_117
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 45
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435c15494d895870800000000000000
+      internalID: 8672117903310213965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_118
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46dd7f5f45179420800000000000000
+      internalID: 2636599537497396811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_119
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 31
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c87502f4f64d20800000000000000
+      internalID: 3262564300387567759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_120
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 39
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd1cfb1027c44c40800000000000000
+      internalID: 5495736386021236217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_121
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 33
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48edd34eb13daca70800000000000000
+      internalID: 8848116534669598340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_122
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 31
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b14812881f34280800000000000000
+      internalID: -9060132458359153775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_123
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1911d39588c67df70800000000000000
+      internalID: 9211950895678165393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_124
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f2838fda5781d0800000000000000
+      internalID: -3348607881896069228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_125
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 33
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de49229328b659210800000000000000
+      internalID: 1339094671261078765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_126
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 33
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b689415d866a3b0800000000000000
+      internalID: -5501594630403626190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_127
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 29
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bee5be5bc840ea0800000000000000
+      internalID: -5907442098237412608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_128
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 19
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdffc3690dd83410800000000000000
+      internalID: 1457157511853374901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_129
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b1181295357ffa0800000000000000
+      internalID: -5767049155545326804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_130
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 29
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f12678d0710732e0800000000000000
+      internalID: -2146245113239166476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_131
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 30
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618ac01de24b2fb20800000000000000
+      internalID: 3166791601163642902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_132
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb647f9eef6cc4b0800000000000000
+      internalID: -5418833180965442586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_133
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 31
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe031c71c4d4740800000000000000
+      internalID: 5137846414808771559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_134
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 31
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3270e9a8043410d0800000000000000
+      internalID: -3453077802471886277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_135
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc25e12c08fc48e0800000000000000
+      internalID: -1707717427688297275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_136
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 45
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03580e0ef4c376690800000000000000
+      internalID: -7609046731646270160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_137
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64abeca8f536b4770800000000000000
+      internalID: 8596073575768570438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_138
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 88
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b4e53e73889d750800000000000000
+      internalID: 6330240524865129322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_139
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 61
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd77ff7dfb07fe50800000000000000
+      internalID: 6842951342214315449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_140
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 49
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593bd3fe7727ebc40800000000000000
+      internalID: 5529983251898020757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_141
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 47
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1146112d92fdafb80800000000000000
+      internalID: -8360124387548896239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_142
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 47
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9bc0d5970c44530800000000000000
+      internalID: 3838404409911196077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_143
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 45
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d56da7a18463a0800000000000000
+      internalID: -6673066190687577915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_144
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c964ca948bcf78b0800000000000000
+      internalID: -5152175678295873086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_145
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a7338260c940010800000000000000
+      internalID: 1154218954771888797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_146
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 31
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae315250f3ef7e20800000000000000
+      internalID: 3350647269099650729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_147
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f70a3e5a6d96d0800000000000000
+      internalID: -2982110425316330670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_148
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb18a906bcefdb40800000000000000
+      internalID: 5467348739241286624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_149
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968ae2c55fa88f400800000000000000
+      internalID: 358188956794136681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_150
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81360be1e46bd8700800000000000000
+      internalID: 544291576620278552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_151
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51803926c86866c0800000000000000
+      internalID: -4149951856318054051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_152
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b605c1e3c5fb710800000000000000
+      internalID: 1711187805256837951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_153
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 45
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d83afcc565baf0800000000000000
+      internalID: -381286662397177714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_154
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b195e01c3e633c0800000000000000
+      internalID: -4380063169262314730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_155
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 103
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6e2763997a1e20800000000000000
+      internalID: 3322101349137411690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gritty Modular Industrial Wall Segment-2_156
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 69
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f759b879b50b17a0800000000000000
+      internalID: -6405519750851897352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gritty Modular Industrial Wall Segment-2_0: 4241006132632640421
+      Gritty Modular Industrial Wall Segment-2_1: -5334189837479594398
+      Gritty Modular Industrial Wall Segment-2_10: 5059941533550443445
+      Gritty Modular Industrial Wall Segment-2_100: 4270173823183291427
+      Gritty Modular Industrial Wall Segment-2_101: -7562205646120318917
+      Gritty Modular Industrial Wall Segment-2_102: 9051497608447653446
+      Gritty Modular Industrial Wall Segment-2_103: -1121909663194443056
+      Gritty Modular Industrial Wall Segment-2_104: 7423705112029634496
+      Gritty Modular Industrial Wall Segment-2_105: 5484251223107569437
+      Gritty Modular Industrial Wall Segment-2_106: -1542560002384339923
+      Gritty Modular Industrial Wall Segment-2_107: -5954142672729883400
+      Gritty Modular Industrial Wall Segment-2_108: -4285592498828129480
+      Gritty Modular Industrial Wall Segment-2_109: -8016312661622356803
+      Gritty Modular Industrial Wall Segment-2_11: -4588056418767252355
+      Gritty Modular Industrial Wall Segment-2_110: 730650734374809834
+      Gritty Modular Industrial Wall Segment-2_111: 9182809992323567420
+      Gritty Modular Industrial Wall Segment-2_112: 638377232353701821
+      Gritty Modular Industrial Wall Segment-2_113: -4383492948430129283
+      Gritty Modular Industrial Wall Segment-2_114: -7349574590208309212
+      Gritty Modular Industrial Wall Segment-2_115: -2548084525369053703
+      Gritty Modular Industrial Wall Segment-2_116: 7186158133841052797
+      Gritty Modular Industrial Wall Segment-2_117: 8672117903310213965
+      Gritty Modular Industrial Wall Segment-2_118: 2636599537497396811
+      Gritty Modular Industrial Wall Segment-2_119: 3262564300387567759
+      Gritty Modular Industrial Wall Segment-2_12: 8740624540129810397
+      Gritty Modular Industrial Wall Segment-2_120: 5495736386021236217
+      Gritty Modular Industrial Wall Segment-2_121: 8848116534669598340
+      Gritty Modular Industrial Wall Segment-2_122: -9060132458359153775
+      Gritty Modular Industrial Wall Segment-2_123: 9211950895678165393
+      Gritty Modular Industrial Wall Segment-2_124: -3348607881896069228
+      Gritty Modular Industrial Wall Segment-2_125: 1339094671261078765
+      Gritty Modular Industrial Wall Segment-2_126: -5501594630403626190
+      Gritty Modular Industrial Wall Segment-2_127: -5907442098237412608
+      Gritty Modular Industrial Wall Segment-2_128: 1457157511853374901
+      Gritty Modular Industrial Wall Segment-2_129: -5767049155545326804
+      Gritty Modular Industrial Wall Segment-2_13: -4412792171856653005
+      Gritty Modular Industrial Wall Segment-2_130: -2146245113239166476
+      Gritty Modular Industrial Wall Segment-2_131: 3166791601163642902
+      Gritty Modular Industrial Wall Segment-2_132: -5418833180965442586
+      Gritty Modular Industrial Wall Segment-2_133: 5137846414808771559
+      Gritty Modular Industrial Wall Segment-2_134: -3453077802471886277
+      Gritty Modular Industrial Wall Segment-2_135: -1707717427688297275
+      Gritty Modular Industrial Wall Segment-2_136: -7609046731646270160
+      Gritty Modular Industrial Wall Segment-2_137: 8596073575768570438
+      Gritty Modular Industrial Wall Segment-2_138: 6330240524865129322
+      Gritty Modular Industrial Wall Segment-2_139: 6842951342214315449
+      Gritty Modular Industrial Wall Segment-2_14: 6821523798572474310
+      Gritty Modular Industrial Wall Segment-2_140: 5529983251898020757
+      Gritty Modular Industrial Wall Segment-2_141: -8360124387548896239
+      Gritty Modular Industrial Wall Segment-2_142: 3838404409911196077
+      Gritty Modular Industrial Wall Segment-2_143: -6673066190687577915
+      Gritty Modular Industrial Wall Segment-2_144: -5152175678295873086
+      Gritty Modular Industrial Wall Segment-2_145: 1154218954771888797
+      Gritty Modular Industrial Wall Segment-2_146: 3350647269099650729
+      Gritty Modular Industrial Wall Segment-2_147: -2982110425316330670
+      Gritty Modular Industrial Wall Segment-2_148: 5467348739241286624
+      Gritty Modular Industrial Wall Segment-2_149: 358188956794136681
+      Gritty Modular Industrial Wall Segment-2_15: 7926180195992902832
+      Gritty Modular Industrial Wall Segment-2_150: 544291576620278552
+      Gritty Modular Industrial Wall Segment-2_151: -4149951856318054051
+      Gritty Modular Industrial Wall Segment-2_152: 1711187805256837951
+      Gritty Modular Industrial Wall Segment-2_153: -381286662397177714
+      Gritty Modular Industrial Wall Segment-2_154: -4380063169262314730
+      Gritty Modular Industrial Wall Segment-2_155: 3322101349137411690
+      Gritty Modular Industrial Wall Segment-2_156: -6405519750851897352
+      Gritty Modular Industrial Wall Segment-2_16: 3834483227195124158
+      Gritty Modular Industrial Wall Segment-2_17: -1297058450840551979
+      Gritty Modular Industrial Wall Segment-2_18: -2510849703872522662
+      Gritty Modular Industrial Wall Segment-2_19: -5054075714367141703
+      Gritty Modular Industrial Wall Segment-2_2: -751555029846243838
+      Gritty Modular Industrial Wall Segment-2_20: 9159627785975922503
+      Gritty Modular Industrial Wall Segment-2_21: -2120487893729333218
+      Gritty Modular Industrial Wall Segment-2_22: -4372813012718148089
+      Gritty Modular Industrial Wall Segment-2_23: 1661913311823204605
+      Gritty Modular Industrial Wall Segment-2_24: -863470176566136218
+      Gritty Modular Industrial Wall Segment-2_25: -6527998416546901035
+      Gritty Modular Industrial Wall Segment-2_26: 3668389200964494629
+      Gritty Modular Industrial Wall Segment-2_27: 5079458250316387062
+      Gritty Modular Industrial Wall Segment-2_28: 8085373692678299458
+      Gritty Modular Industrial Wall Segment-2_29: -317389123083798448
+      Gritty Modular Industrial Wall Segment-2_3: 4024535381175608578
+      Gritty Modular Industrial Wall Segment-2_30: 6075618428778994741
+      Gritty Modular Industrial Wall Segment-2_31: -6146750887007714492
+      Gritty Modular Industrial Wall Segment-2_32: 6489830999128938473
+      Gritty Modular Industrial Wall Segment-2_33: 5853293369268686595
+      Gritty Modular Industrial Wall Segment-2_34: 9215464495137321229
+      Gritty Modular Industrial Wall Segment-2_35: -8862774399223937260
+      Gritty Modular Industrial Wall Segment-2_36: 4926911096746101557
+      Gritty Modular Industrial Wall Segment-2_37: 7500770244899890388
+      Gritty Modular Industrial Wall Segment-2_38: -5688545665723637348
+      Gritty Modular Industrial Wall Segment-2_39: -1117502556841864663
+      Gritty Modular Industrial Wall Segment-2_4: 6082994958401104034
+      Gritty Modular Industrial Wall Segment-2_40: -6550131318562244150
+      Gritty Modular Industrial Wall Segment-2_41: 4367318190394796852
+      Gritty Modular Industrial Wall Segment-2_42: 5738873572949898844
+      Gritty Modular Industrial Wall Segment-2_43: -2864747985360769256
+      Gritty Modular Industrial Wall Segment-2_44: -7241490472331031854
+      Gritty Modular Industrial Wall Segment-2_45: 8192942612687476654
+      Gritty Modular Industrial Wall Segment-2_46: 7866876560323672803
+      Gritty Modular Industrial Wall Segment-2_47: -2165717959567489514
+      Gritty Modular Industrial Wall Segment-2_48: 5227377588209189605
+      Gritty Modular Industrial Wall Segment-2_49: -8239470275998549573
+      Gritty Modular Industrial Wall Segment-2_5: 7936660526772682898
+      Gritty Modular Industrial Wall Segment-2_50: -8040448231242772957
+      Gritty Modular Industrial Wall Segment-2_51: 5081105469737632706
+      Gritty Modular Industrial Wall Segment-2_52: 7826398320776783617
+      Gritty Modular Industrial Wall Segment-2_53: 7708405252629165886
+      Gritty Modular Industrial Wall Segment-2_54: 8480386279959252540
+      Gritty Modular Industrial Wall Segment-2_55: -8457202946780922627
+      Gritty Modular Industrial Wall Segment-2_56: -1704070480806247569
+      Gritty Modular Industrial Wall Segment-2_57: -8337867425235287602
+      Gritty Modular Industrial Wall Segment-2_58: -4049287926648329874
+      Gritty Modular Industrial Wall Segment-2_59: 4860925624096448757
+      Gritty Modular Industrial Wall Segment-2_6: -4199528178635723602
+      Gritty Modular Industrial Wall Segment-2_60: -4461432856895947299
+      Gritty Modular Industrial Wall Segment-2_61: -2708366770116260276
+      Gritty Modular Industrial Wall Segment-2_62: -5947791742340032351
+      Gritty Modular Industrial Wall Segment-2_63: -4444844551819115135
+      Gritty Modular Industrial Wall Segment-2_64: 8096524348952658865
+      Gritty Modular Industrial Wall Segment-2_65: -1749142120823269320
+      Gritty Modular Industrial Wall Segment-2_66: 7614085621688783689
+      Gritty Modular Industrial Wall Segment-2_67: 3520294270796584685
+      Gritty Modular Industrial Wall Segment-2_68: -1376179229421312403
+      Gritty Modular Industrial Wall Segment-2_69: 8446426350130146276
+      Gritty Modular Industrial Wall Segment-2_7: 213135373888473214
+      Gritty Modular Industrial Wall Segment-2_70: -3926165839225749807
+      Gritty Modular Industrial Wall Segment-2_71: 6445110150984661213
+      Gritty Modular Industrial Wall Segment-2_72: -1099070172997350333
+      Gritty Modular Industrial Wall Segment-2_73: -5340624253417289124
+      Gritty Modular Industrial Wall Segment-2_74: 4346947593354601688
+      Gritty Modular Industrial Wall Segment-2_75: -1416154963682758811
+      Gritty Modular Industrial Wall Segment-2_76: -2690862081470421848
+      Gritty Modular Industrial Wall Segment-2_77: 536766212578564825
+      Gritty Modular Industrial Wall Segment-2_78: -6226161744749236180
+      Gritty Modular Industrial Wall Segment-2_79: -5096521173092599959
+      Gritty Modular Industrial Wall Segment-2_8: 2882261025298494222
+      Gritty Modular Industrial Wall Segment-2_80: 5492011457765431265
+      Gritty Modular Industrial Wall Segment-2_81: -1864063856178998509
+      Gritty Modular Industrial Wall Segment-2_82: 2906250058213415079
+      Gritty Modular Industrial Wall Segment-2_83: -7438588637784722094
+      Gritty Modular Industrial Wall Segment-2_84: -6391148822502054386
+      Gritty Modular Industrial Wall Segment-2_85: 5545951380141152927
+      Gritty Modular Industrial Wall Segment-2_86: 6386816204454165364
+      Gritty Modular Industrial Wall Segment-2_87: 7049026025396528492
+      Gritty Modular Industrial Wall Segment-2_88: 4198202110888801132
+      Gritty Modular Industrial Wall Segment-2_89: 2034796462263557419
+      Gritty Modular Industrial Wall Segment-2_9: -5872913326799730511
+      Gritty Modular Industrial Wall Segment-2_90: 3504808844951332033
+      Gritty Modular Industrial Wall Segment-2_91: 4277251984355057270
+      Gritty Modular Industrial Wall Segment-2_92: -8098507833568299594
+      Gritty Modular Industrial Wall Segment-2_93: 3350616934420837450
+      Gritty Modular Industrial Wall Segment-2_94: -8285596534732247009
+      Gritty Modular Industrial Wall Segment-2_95: -4649873546134931867
+      Gritty Modular Industrial Wall Segment-2_96: 6343075087505142134
+      Gritty Modular Industrial Wall Segment-2_97: -3655122197561953446
+      Gritty Modular Industrial Wall Segment-2_98: -823956803869420607
+      Gritty Modular Industrial Wall Segment-2_99: -5041630263070350711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: acc575ff53142bd439617ad265c941f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 514121632212584484
+    second: Cyan holographic circular minimap frame_0
+  - first:
+      213: -9220107972342828354
+    second: Cyan holographic circular minimap frame_1
+  - first:
+      213: 7456869125564059654
+    second: Cyan holographic circular minimap frame_2
+  - first:
+      213: -5653393448723124642
+    second: Cyan holographic circular minimap frame_3
+  - first:
+      213: -2190982068109472826
+    second: Cyan holographic circular minimap frame_4
+  - first:
+      213: 457833187635504703
+    second: Cyan holographic circular minimap frame_5
+  - first:
+      213: -6929872479943332639
+    second: Cyan holographic circular minimap frame_6
+  - first:
+      213: 8177216398235248655
+    second: Cyan holographic circular minimap frame_7
+  - first:
+      213: -4007477235227059786
+    second: Cyan holographic circular minimap frame_8
+  - first:
+      213: -5640337146475260633
+    second: Cyan holographic circular minimap frame_9
+  - first:
+      213: 9197506334571889630
+    second: Cyan holographic circular minimap frame_10
+  - first:
+      213: 8073527640804648649
+    second: Cyan holographic circular minimap frame_11
+  - first:
+      213: -1377316437480449038
+    second: Cyan holographic circular minimap frame_12
+  - first:
+      213: 821947439615612809
+    second: Cyan holographic circular minimap frame_13
+  - first:
+      213: 3761773552594522752
+    second: Cyan holographic circular minimap frame_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1259
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428006b86e6822700800000000000000
+      internalID: 514121632212584484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_1
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1122
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb232cd36a89b0080800000000000000
+      internalID: -9220107972342828354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 114
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600d2d526fe1c7760800000000000000
+      internalID: 7456869125564059654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e66518c9c1b81b0800000000000000
+      internalID: -5653393448723124642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_4
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 940
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb8519da611891e0800000000000000
+      internalID: -2190982068109472826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_5
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 954
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f362663cbdc8a5600800000000000000
+      internalID: 457833187635504703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_6
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 934
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece83e02b524df90800000000000000
+      internalID: -6929872479943332639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_7
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 905
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08af4c4dfe4b7170800000000000000
+      internalID: 8177216398235248655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_8
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 873
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b993d4efa49268c0800000000000000
+      internalID: -4007477235227059786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 371
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725d6e2cf3f79b1b0800000000000000
+      internalID: -5640337146475260633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 306
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed30093e74b14af70800000000000000
+      internalID: 9197506334571889630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_11
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 296
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6657a2d9eea0070800000000000000
+      internalID: 8073527640804648649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 293
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbdba85ff9c2ece0800000000000000
+      internalID: -1377316437480449038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_13
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 86
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987945a67d4286b00800000000000000
+      internalID: 821947439615612809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan holographic circular minimap frame_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821bd78d11843430800000000000000
+      internalID: 3761773552594522752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyan holographic circular minimap frame_0: 514121632212584484
+      Cyan holographic circular minimap frame_1: -9220107972342828354
+      Cyan holographic circular minimap frame_10: 9197506334571889630
+      Cyan holographic circular minimap frame_11: 8073527640804648649
+      Cyan holographic circular minimap frame_12: -1377316437480449038
+      Cyan holographic circular minimap frame_13: 821947439615612809
+      Cyan holographic circular minimap frame_14: 3761773552594522752
+      Cyan holographic circular minimap frame_2: 7456869125564059654
+      Cyan holographic circular minimap frame_3: -5653393448723124642
+      Cyan holographic circular minimap frame_4: -2190982068109472826
+      Cyan holographic circular minimap frame_5: 457833187635504703
+      Cyan holographic circular minimap frame_6: -6929872479943332639
+      Cyan holographic circular minimap frame_7: 8177216398235248655
+      Cyan holographic circular minimap frame_8: -4007477235227059786
+      Cyan holographic circular minimap frame_9: -5640337146475260633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

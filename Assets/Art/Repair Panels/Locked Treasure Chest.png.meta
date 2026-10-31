@@ -1,0 +1,2368 @@
+fileFormatVersion: 2
+guid: e87832b630831b54798926ab7ba55190
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1546298942797142632
+    second: Locked Industrial Treasure Chest-1_0
+  - first:
+      213: -458483423881991328
+    second: Locked Industrial Treasure Chest-1_1
+  - first:
+      213: 1491427584770667654
+    second: Locked Industrial Treasure Chest-1_2
+  - first:
+      213: 5828634823073422402
+    second: Locked Industrial Treasure Chest-1_3
+  - first:
+      213: -2697415660129063515
+    second: Locked Industrial Treasure Chest-1_4
+  - first:
+      213: 4120902687499554059
+    second: Locked Industrial Treasure Chest-1_5
+  - first:
+      213: 4155395454446265049
+    second: Locked Industrial Treasure Chest-1_6
+  - first:
+      213: -7823456386134216019
+    second: Locked Industrial Treasure Chest-1_7
+  - first:
+      213: 2293816077211948605
+    second: Locked Industrial Treasure Chest-1_8
+  - first:
+      213: 2783498041632510514
+    second: Locked Industrial Treasure Chest-1_9
+  - first:
+      213: -493676541066092423
+    second: Locked Industrial Treasure Chest-1_10
+  - first:
+      213: -5034127936047882641
+    second: Locked Industrial Treasure Chest-1_11
+  - first:
+      213: -6580805928742719141
+    second: Locked Industrial Treasure Chest-1_12
+  - first:
+      213: -2187526994498964677
+    second: Locked Industrial Treasure Chest-1_13
+  - first:
+      213: -4509969850702005039
+    second: Locked Industrial Treasure Chest-1_14
+  - first:
+      213: -658644091805127434
+    second: Locked Industrial Treasure Chest-1_15
+  - first:
+      213: 8381151682913124536
+    second: Locked Industrial Treasure Chest-1_16
+  - first:
+      213: -8693404638791440551
+    second: Locked Industrial Treasure Chest-1_17
+  - first:
+      213: 72116098819268150
+    second: Locked Industrial Treasure Chest-1_18
+  - first:
+      213: -6544184843830289616
+    second: Locked Industrial Treasure Chest-1_19
+  - first:
+      213: -4997279970375689794
+    second: Locked Industrial Treasure Chest-1_20
+  - first:
+      213: -3805617584647224397
+    second: Locked Industrial Treasure Chest-1_21
+  - first:
+      213: 2139521863815083642
+    second: Locked Industrial Treasure Chest-1_22
+  - first:
+      213: 2053459315521684215
+    second: Locked Industrial Treasure Chest-1_23
+  - first:
+      213: 1759677940825788766
+    second: Locked Industrial Treasure Chest-1_24
+  - first:
+      213: -497904180493658982
+    second: Locked Industrial Treasure Chest-1_25
+  - first:
+      213: 7522946848498061235
+    second: Locked Industrial Treasure Chest-1_26
+  - first:
+      213: 2904800753182896384
+    second: Locked Industrial Treasure Chest-1_27
+  - first:
+      213: 162143815160405159
+    second: Locked Industrial Treasure Chest-1_28
+  - first:
+      213: 5724582260132797999
+    second: Locked Industrial Treasure Chest-1_29
+  - first:
+      213: 3184806622060752568
+    second: Locked Industrial Treasure Chest-1_30
+  - first:
+      213: -2832521776190951006
+    second: Locked Industrial Treasure Chest-1_31
+  - first:
+      213: 1015875844094296791
+    second: Locked Industrial Treasure Chest-1_32
+  - first:
+      213: 845733131322618415
+    second: Locked Industrial Treasure Chest-1_33
+  - first:
+      213: 1284092293891761632
+    second: Locked Industrial Treasure Chest-1_34
+  - first:
+      213: 1216665945317392373
+    second: Locked Industrial Treasure Chest-1_35
+  - first:
+      213: 2677841854444771083
+    second: Locked Industrial Treasure Chest-1_36
+  - first:
+      213: -4010609360696840239
+    second: Locked Industrial Treasure Chest-1_37
+  - first:
+      213: -4236086764247538884
+    second: Locked Industrial Treasure Chest-1_38
+  - first:
+      213: 8542215143760218084
+    second: Locked Industrial Treasure Chest-1_39
+  - first:
+      213: 1289064673345446438
+    second: Locked Industrial Treasure Chest-1_40
+  - first:
+      213: -6159646997393420705
+    second: Locked Industrial Treasure Chest-1_41
+  - first:
+      213: 6307648260174892945
+    second: Locked Industrial Treasure Chest-1_42
+  - first:
+      213: 8796508566332699871
+    second: Locked Industrial Treasure Chest-1_43
+  - first:
+      213: -2123202169807809244
+    second: Locked Industrial Treasure Chest-1_44
+  - first:
+      213: 2267394011440829050
+    second: Locked Industrial Treasure Chest-1_45
+  - first:
+      213: 9063261126358737263
+    second: Locked Industrial Treasure Chest-1_46
+  - first:
+      213: -2552162028712103522
+    second: Locked Industrial Treasure Chest-1_47
+  - first:
+      213: 2332100401191878243
+    second: Locked Industrial Treasure Chest-1_48
+  - first:
+      213: -7985757417165477305
+    second: Locked Industrial Treasure Chest-1_49
+  - first:
+      213: 7820681655923450645
+    second: Locked Industrial Treasure Chest-1_50
+  - first:
+      213: 7234980052631401710
+    second: Locked Industrial Treasure Chest-1_51
+  - first:
+      213: -5525832030802949351
+    second: Locked Industrial Treasure Chest-1_52
+  - first:
+      213: -5890935562052468540
+    second: Locked Industrial Treasure Chest-1_53
+  - first:
+      213: 3094366945904227290
+    second: Locked Industrial Treasure Chest-1_54
+  - first:
+      213: -1059979018305711272
+    second: Locked Industrial Treasure Chest-1_55
+  - first:
+      213: -4763959367591964614
+    second: Locked Industrial Treasure Chest-1_56
+  - first:
+      213: -249944481558231442
+    second: Locked Industrial Treasure Chest-1_57
+  - first:
+      213: 7533447353906916039
+    second: Locked Industrial Treasure Chest-1_58
+  - first:
+      213: 4418726099842062002
+    second: Locked Industrial Treasure Chest-1_59
+  - first:
+      213: 5854067689992331541
+    second: Locked Industrial Treasure Chest-1_60
+  - first:
+      213: 9087888067446305024
+    second: Locked Industrial Treasure Chest-1_61
+  - first:
+      213: -658103657955616114
+    second: Locked Industrial Treasure Chest-1_62
+  - first:
+      213: 6476394887265149401
+    second: Locked Industrial Treasure Chest-1_63
+  - first:
+      213: -7659784277668715501
+    second: Locked Industrial Treasure Chest-1_64
+  - first:
+      213: 462587515332246873
+    second: Locked Industrial Treasure Chest-1_65
+  - first:
+      213: 7039035603417677918
+    second: Locked Industrial Treasure Chest-1_66
+  - first:
+      213: -3851614612836610922
+    second: Locked Industrial Treasure Chest-1_67
+  - first:
+      213: 3623424530211777536
+    second: Locked Industrial Treasure Chest-1_68
+  - first:
+      213: 8851845540986821916
+    second: Locked Industrial Treasure Chest-1_69
+  - first:
+      213: -4421272921932992845
+    second: Locked Industrial Treasure Chest-1_70
+  - first:
+      213: 7485593895724101885
+    second: Locked Industrial Treasure Chest-1_71
+  - first:
+      213: 6434106130687481130
+    second: Locked Industrial Treasure Chest-1_72
+  - first:
+      213: -8636683785675706276
+    second: Locked Industrial Treasure Chest-1_73
+  - first:
+      213: -8992789468355145468
+    second: Locked Industrial Treasure Chest-1_74
+  - first:
+      213: -1689315798578282257
+    second: Locked Industrial Treasure Chest-1_75
+  - first:
+      213: 6437235316384487235
+    second: Locked Industrial Treasure Chest-1_76
+  - first:
+      213: 6144112191348202742
+    second: Locked Industrial Treasure Chest-1_77
+  - first:
+      213: 8978177930508081918
+    second: Locked Industrial Treasure Chest-1_78
+  - first:
+      213: 705943043248800374
+    second: Locked Industrial Treasure Chest-1_79
+  - first:
+      213: 2344143893586180921
+    second: Locked Industrial Treasure Chest-1_80
+  - first:
+      213: 3570676531832527349
+    second: Locked Industrial Treasure Chest-1_81
+  - first:
+      213: -8075584354739510919
+    second: Locked Industrial Treasure Chest-1_82
+  - first:
+      213: -7119914441469854170
+    second: Locked Industrial Treasure Chest-1_83
+  - first:
+      213: -9073467134519404658
+    second: Locked Industrial Treasure Chest-1_84
+  - first:
+      213: -560652963976555738
+    second: Locked Industrial Treasure Chest-1_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_0
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 909
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895a30edd417a8ae0800000000000000
+      internalID: -1546298942797142632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_1
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 873
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06beb1051c323a9f0800000000000000
+      internalID: -458483423881991328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 916
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68479768c7d92b410800000000000000
+      internalID: 1491427584770667654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 891
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c53ca7d7873e050800000000000000
+      internalID: 5828634823073422402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6e66afbad09ad0800000000000000
+      internalID: -2697415660129063515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 885
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d0d5a2923603930800000000000000
+      internalID: 4120902687499554059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 885
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2ea8b462eeaa930800000000000000
+      internalID: 4155395454446265049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_7
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 901
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da275b40edf7d6390800000000000000
+      internalID: -7823456386134216019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 879
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d365c4ea19545df10800000000000000
+      internalID: 2293816077211948605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_9
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 884
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2325084a8b8f0a620800000000000000
+      internalID: 2783498041632510514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 863
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970efcf2dcb1629f0800000000000000
+      internalID: -493676541066092423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_11
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 863
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6edef9605f232ab0800000000000000
+      internalID: -5034127936047882641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_12
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 815
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b517189dfd74ca4a0800000000000000
+      internalID: -6580805928742719141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 78
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33bf4cd9c754a1e0800000000000000
+      internalID: -2187526994498964677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 83
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7f2dc05e5961c0800000000000000
+      internalID: -4509969850702005039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_15
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 73
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcab8a20b60cd6f0800000000000000
+      internalID: -658644091805127434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b044b4ec05df4470800000000000000
+      internalID: 8381151682913124536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9576a186a82da5780800000000000000
+      internalID: -8693404638791440551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 47
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e95b4b535300100800000000000000
+      internalID: 72116098819268150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 63
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b100f9e826e25a0800000000000000
+      internalID: -6544184843830289616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_20
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 59
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9159af75816aab0800000000000000
+      internalID: -4997279970375689794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_21
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34f1448fabf2bc0800000000000000
+      internalID: -3805617584647224397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_22
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 55
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7631e9accb11bd10800000000000000
+      internalID: 2139521863815083642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_23
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f203662e5a5f7c10800000000000000
+      internalID: 2053459315521684215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_24
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 71
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51130693c1ab6810800000000000000
+      internalID: 1759677940825788766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a945e7d29c61719f0800000000000000
+      internalID: -497904180493658982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 11
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf0fd8ec40e66860800000000000000
+      internalID: 7522946848498061235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 39
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f0cc05ecef4820800000000000000
+      internalID: 2904800753182896384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 49
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9929d0fc004200800000000000000
+      internalID: 162143815160405159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_29
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed7b64c3dc17f40800000000000000
+      internalID: 5724582260132797999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be2e3abfb4b23c20800000000000000
+      internalID: 3184806622060752568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_31
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1749fa37cd0b8d0800000000000000
+      internalID: -2832521776190951006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_32
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 44
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d20427a2bd191e00800000000000000
+      internalID: 1015875844094296791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_33
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 37
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2273435dc5acbb00800000000000000
+      internalID: 845733131322618415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_34
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 37
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e52c3c432302d110800000000000000
+      internalID: 1284092293891761632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_35
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 53
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff35f82b3772e010800000000000000
+      internalID: 1216665945317392373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_36
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 17
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b079ad29afa992520800000000000000
+      internalID: 2677841854444771083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_37
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfeeca19047758c0800000000000000
+      internalID: -4010609360696840239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_38
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 49
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33aa4b18856635c0800000000000000
+      internalID: -4236086764247538884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_39
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 53
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e74ac62a6b0c8670800000000000000
+      internalID: 8542215143760218084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 17
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622a24b9d7da3e110800000000000000
+      internalID: 1289064673345446438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e409ae0b9848aa0800000000000000
+      internalID: -6159646997393420705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 23
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc5db5ca4498750800000000000000
+      internalID: 6307648260174892945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 7
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f0f76fe9731a70800000000000000
+      internalID: 8796508566332699871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_44
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 17
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425544230eed882e0800000000000000
+      internalID: -2123202169807809244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 27
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7257c917d6677f10800000000000000
+      internalID: 2267394011440829050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 13
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612837a9fb27cd70800000000000000
+      internalID: 9063261126358737263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_47
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ff552826e49cd0800000000000000
+      internalID: -2552162028712103522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_48
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 37
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e769975f84d5020800000000000000
+      internalID: 2332100401191878243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_49
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 27
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a296f70f3ec2190800000000000000
+      internalID: -7985757417165477305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_50
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 37
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5132bb2c784a88c60800000000000000
+      internalID: 7820681655923450645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4b12a7600d76460800000000000000
+      internalID: 7234980052631401710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_52
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 39
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bc38b8b0d4053b0800000000000000
+      internalID: -5525832030802949351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_53
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 23
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0852d51513f3ea0800000000000000
+      internalID: -5890935562052468540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_54
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 23
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f457b75661fa20800000000000000
+      internalID: 3094366945904227290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_55
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 31
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535588e2b23a41f0800000000000000
+      internalID: -1059979018305711272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_56
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 13
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30594a123403edb0800000000000000
+      internalID: -4763959367591964614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_57
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 29
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66072b71d4088cf0800000000000000
+      internalID: -249944481558231442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_58
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 13
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6ab7547e2c8860800000000000000
+      internalID: 7533447353906916039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_59
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 30
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b655d4f9f7725d30800000000000000
+      internalID: 4418726099842062002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a5114c83dd3150800000000000000
+      internalID: 5854067689992331541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f5a23c0aae1e70800000000000000
+      internalID: 9087888067446305024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_62
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 22
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a9b2ab532fdd6f0800000000000000
+      internalID: -658103657955616114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 21
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1689826d6c0e950800000000000000
+      internalID: 6476394887265149401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_64
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 29
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3142f6168caf2b590800000000000000
+      internalID: -7659784277668715501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_65
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 11
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95db8e0f4e07b6600800000000000000
+      internalID: 462587515332246873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_66
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 9
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50c90f369dafa160800000000000000
+      internalID: 7039035603417677918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_67
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 14
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c8b269ae05c8ac0800000000000000
+      internalID: -3851614612836610922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_68
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 21
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ca5b9996df84230800000000000000
+      internalID: 3623424530211777536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_69
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 17
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1525de9218da70800000000000000
+      internalID: 8851845540986821916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_70
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 14
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6121d3bb74a2c0800000000000000
+      internalID: -4421272921932992845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_71
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b77fdcfb22e760800000000000000
+      internalID: 7485593895724101885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_72
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 15
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a255acebf698a4950800000000000000
+      internalID: 6434106130687481130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_73
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 15
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507c652bd5542880800000000000000
+      internalID: -8636683785675706276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 10
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40151d6df91333380800000000000000
+      internalID: -8992789468355145468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 6
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe049484b385e88e0800000000000000
+      internalID: -1689315798578282257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_76
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34752b01a67a55950800000000000000
+      internalID: 6437235316384487235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_77
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 17
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcd4713c75444550800000000000000
+      internalID: 6144112191348202742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_78
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 7
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9f266245e89c70800000000000000
+      internalID: 8978177930508081918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_79
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 13
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c08425730cc900800000000000000
+      internalID: 705943043248800374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_80
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bfa9f8372188020800000000000000
+      internalID: 2344143893586180921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_81
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f993bf23679d8130800000000000000
+      internalID: 3570676531832527349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_82
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 10
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971ac0ec0d2cdef80800000000000000
+      internalID: -8075584354739510919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_83
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 13
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef305d98bf03d90800000000000000
+      internalID: -7119914441469854170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_84
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 7
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e871ac5e6b1941280800000000000000
+      internalID: -9073467134519404658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Industrial Treasure Chest-1_85
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 17
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62358e789192838f0800000000000000
+      internalID: -560652963976555738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Locked Industrial Treasure Chest-1_0: -1546298942797142632
+      Locked Industrial Treasure Chest-1_1: -458483423881991328
+      Locked Industrial Treasure Chest-1_10: -493676541066092423
+      Locked Industrial Treasure Chest-1_11: -5034127936047882641
+      Locked Industrial Treasure Chest-1_12: -6580805928742719141
+      Locked Industrial Treasure Chest-1_13: -2187526994498964677
+      Locked Industrial Treasure Chest-1_14: -4509969850702005039
+      Locked Industrial Treasure Chest-1_15: -658644091805127434
+      Locked Industrial Treasure Chest-1_16: 8381151682913124536
+      Locked Industrial Treasure Chest-1_17: -8693404638791440551
+      Locked Industrial Treasure Chest-1_18: 72116098819268150
+      Locked Industrial Treasure Chest-1_19: -6544184843830289616
+      Locked Industrial Treasure Chest-1_2: 1491427584770667654
+      Locked Industrial Treasure Chest-1_20: -4997279970375689794
+      Locked Industrial Treasure Chest-1_21: -3805617584647224397
+      Locked Industrial Treasure Chest-1_22: 2139521863815083642
+      Locked Industrial Treasure Chest-1_23: 2053459315521684215
+      Locked Industrial Treasure Chest-1_24: 1759677940825788766
+      Locked Industrial Treasure Chest-1_25: -497904180493658982
+      Locked Industrial Treasure Chest-1_26: 7522946848498061235
+      Locked Industrial Treasure Chest-1_27: 2904800753182896384
+      Locked Industrial Treasure Chest-1_28: 162143815160405159
+      Locked Industrial Treasure Chest-1_29: 5724582260132797999
+      Locked Industrial Treasure Chest-1_3: 5828634823073422402
+      Locked Industrial Treasure Chest-1_30: 3184806622060752568
+      Locked Industrial Treasure Chest-1_31: -2832521776190951006
+      Locked Industrial Treasure Chest-1_32: 1015875844094296791
+      Locked Industrial Treasure Chest-1_33: 845733131322618415
+      Locked Industrial Treasure Chest-1_34: 1284092293891761632
+      Locked Industrial Treasure Chest-1_35: 1216665945317392373
+      Locked Industrial Treasure Chest-1_36: 2677841854444771083
+      Locked Industrial Treasure Chest-1_37: -4010609360696840239
+      Locked Industrial Treasure Chest-1_38: -4236086764247538884
+      Locked Industrial Treasure Chest-1_39: 8542215143760218084
+      Locked Industrial Treasure Chest-1_4: -2697415660129063515
+      Locked Industrial Treasure Chest-1_40: 1289064673345446438
+      Locked Industrial Treasure Chest-1_41: -6159646997393420705
+      Locked Industrial Treasure Chest-1_42: 6307648260174892945
+      Locked Industrial Treasure Chest-1_43: 8796508566332699871
+      Locked Industrial Treasure Chest-1_44: -2123202169807809244
+      Locked Industrial Treasure Chest-1_45: 2267394011440829050
+      Locked Industrial Treasure Chest-1_46: 9063261126358737263
+      Locked Industrial Treasure Chest-1_47: -2552162028712103522
+      Locked Industrial Treasure Chest-1_48: 2332100401191878243
+      Locked Industrial Treasure Chest-1_49: -7985757417165477305
+      Locked Industrial Treasure Chest-1_5: 4120902687499554059
+      Locked Industrial Treasure Chest-1_50: 7820681655923450645
+      Locked Industrial Treasure Chest-1_51: 7234980052631401710
+      Locked Industrial Treasure Chest-1_52: -5525832030802949351
+      Locked Industrial Treasure Chest-1_53: -5890935562052468540
+      Locked Industrial Treasure Chest-1_54: 3094366945904227290
+      Locked Industrial Treasure Chest-1_55: -1059979018305711272
+      Locked Industrial Treasure Chest-1_56: -4763959367591964614
+      Locked Industrial Treasure Chest-1_57: -249944481558231442
+      Locked Industrial Treasure Chest-1_58: 7533447353906916039
+      Locked Industrial Treasure Chest-1_59: 4418726099842062002
+      Locked Industrial Treasure Chest-1_6: 4155395454446265049
+      Locked Industrial Treasure Chest-1_60: 5854067689992331541
+      Locked Industrial Treasure Chest-1_61: 9087888067446305024
+      Locked Industrial Treasure Chest-1_62: -658103657955616114
+      Locked Industrial Treasure Chest-1_63: 6476394887265149401
+      Locked Industrial Treasure Chest-1_64: -7659784277668715501
+      Locked Industrial Treasure Chest-1_65: 462587515332246873
+      Locked Industrial Treasure Chest-1_66: 7039035603417677918
+      Locked Industrial Treasure Chest-1_67: -3851614612836610922
+      Locked Industrial Treasure Chest-1_68: 3623424530211777536
+      Locked Industrial Treasure Chest-1_69: 8851845540986821916
+      Locked Industrial Treasure Chest-1_7: -7823456386134216019
+      Locked Industrial Treasure Chest-1_70: -4421272921932992845
+      Locked Industrial Treasure Chest-1_71: 7485593895724101885
+      Locked Industrial Treasure Chest-1_72: 6434106130687481130
+      Locked Industrial Treasure Chest-1_73: -8636683785675706276
+      Locked Industrial Treasure Chest-1_74: -8992789468355145468
+      Locked Industrial Treasure Chest-1_75: -1689315798578282257
+      Locked Industrial Treasure Chest-1_76: 6437235316384487235
+      Locked Industrial Treasure Chest-1_77: 6144112191348202742
+      Locked Industrial Treasure Chest-1_78: 8978177930508081918
+      Locked Industrial Treasure Chest-1_79: 705943043248800374
+      Locked Industrial Treasure Chest-1_8: 2293816077211948605
+      Locked Industrial Treasure Chest-1_80: 2344143893586180921
+      Locked Industrial Treasure Chest-1_81: 3570676531832527349
+      Locked Industrial Treasure Chest-1_82: -8075584354739510919
+      Locked Industrial Treasure Chest-1_83: -7119914441469854170
+      Locked Industrial Treasure Chest-1_84: -9073467134519404658
+      Locked Industrial Treasure Chest-1_85: -560652963976555738
+      Locked Industrial Treasure Chest-1_9: 2783498041632510514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

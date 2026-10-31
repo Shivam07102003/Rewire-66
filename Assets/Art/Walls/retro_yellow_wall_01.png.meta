@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: 918329b2328acb54dbb67e1ae6245912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4597075644082831279
+    second: retro_yellow_wall_01_0
+  - first:
+      213: 4692080366112306497
+    second: retro_yellow_wall_01_1
+  - first:
+      213: 9118629813075181248
+    second: retro_yellow_wall_01_2
+  - first:
+      213: 2324674046990197953
+    second: retro_yellow_wall_01_3
+  - first:
+      213: -5839012034396008994
+    second: retro_yellow_wall_01_4
+  - first:
+      213: 8998310113384686945
+    second: retro_yellow_wall_01_5
+  - first:
+      213: -8944949200490291857
+    second: retro_yellow_wall_01_6
+  - first:
+      213: 1262745744351324341
+    second: retro_yellow_wall_01_7
+  - first:
+      213: 2229007604134395422
+    second: retro_yellow_wall_01_8
+  - first:
+      213: -608819594753994012
+    second: retro_yellow_wall_01_9
+  - first:
+      213: 7967333666478934449
+    second: retro_yellow_wall_01_10
+  - first:
+      213: -4257932240280412236
+    second: retro_yellow_wall_01_11
+  - first:
+      213: 7738015217539447901
+    second: retro_yellow_wall_01_12
+  - first:
+      213: -4497895006149230118
+    second: retro_yellow_wall_01_13
+  - first:
+      213: -8251655861547070678
+    second: retro_yellow_wall_01_14
+  - first:
+      213: -7462544034824150334
+    second: retro_yellow_wall_01_15
+  - first:
+      213: -2787347408366853607
+    second: retro_yellow_wall_01_16
+  - first:
+      213: -6556152854878720236
+    second: retro_yellow_wall_01_17
+  - first:
+      213: -5808657862523143437
+    second: retro_yellow_wall_01_18
+  - first:
+      213: 3325225437682590395
+    second: retro_yellow_wall_01_19
+  - first:
+      213: 2472929001457310680
+    second: retro_yellow_wall_01_20
+  - first:
+      213: -7176624332252806700
+    second: retro_yellow_wall_01_21
+  - first:
+      213: -5940983727465288998
+    second: retro_yellow_wall_01_22
+  - first:
+      213: 6592648428596386188
+    second: retro_yellow_wall_01_23
+  - first:
+      213: 8760496770661271690
+    second: retro_yellow_wall_01_24
+  - first:
+      213: 162454063788554622
+    second: retro_yellow_wall_01_25
+  - first:
+      213: -8945620960213010174
+    second: retro_yellow_wall_01_26
+  - first:
+      213: -7576988123537687862
+    second: retro_yellow_wall_01_27
+  - first:
+      213: 3093869603279324637
+    second: retro_yellow_wall_01_28
+  - first:
+      213: -4447723276569636181
+    second: retro_yellow_wall_01_29
+  - first:
+      213: -6993490496273490209
+    second: retro_yellow_wall_01_30
+  - first:
+      213: -7826755743750764060
+    second: retro_yellow_wall_01_31
+  - first:
+      213: 7580536864871013805
+    second: retro_yellow_wall_01_32
+  - first:
+      213: -971259021356256508
+    second: retro_yellow_wall_01_33
+  - first:
+      213: 2483720970894614055
+    second: retro_yellow_wall_01_34
+  - first:
+      213: 610368470273516819
+    second: retro_yellow_wall_01_35
+  - first:
+      213: 8044502640505714147
+    second: retro_yellow_wall_01_36
+  - first:
+      213: 3260460007069022024
+    second: retro_yellow_wall_01_37
+  - first:
+      213: -2523546372003760242
+    second: retro_yellow_wall_01_38
+  - first:
+      213: 6544465215402734025
+    second: retro_yellow_wall_01_39
+  - first:
+      213: 4570405285568123317
+    second: retro_yellow_wall_01_40
+  - first:
+      213: -4844078498682609707
+    second: retro_yellow_wall_01_41
+  - first:
+      213: 886749759037451167
+    second: retro_yellow_wall_01_42
+  - first:
+      213: 5632995600313749903
+    second: retro_yellow_wall_01_43
+  - first:
+      213: -5380282551618451924
+    second: retro_yellow_wall_01_44
+  - first:
+      213: -8694816476204635236
+    second: retro_yellow_wall_01_45
+  - first:
+      213: 7818614806387381695
+    second: retro_yellow_wall_01_46
+  - first:
+      213: 1590652970358271126
+    second: retro_yellow_wall_01_47
+  - first:
+      213: 5407632334560544347
+    second: retro_yellow_wall_01_48
+  - first:
+      213: 4056423915204511160
+    second: retro_yellow_wall_01_49
+  - first:
+      213: -1616937009331452476
+    second: retro_yellow_wall_01_50
+  - first:
+      213: -7965882627619644401
+    second: retro_yellow_wall_01_51
+  - first:
+      213: -6593653756163731824
+    second: retro_yellow_wall_01_52
+  - first:
+      213: -9156400116031413270
+    second: retro_yellow_wall_01_53
+  - first:
+      213: 959711528167058077
+    second: retro_yellow_wall_01_54
+  - first:
+      213: -4010453411615573261
+    second: retro_yellow_wall_01_55
+  - first:
+      213: 931677253778899574
+    second: retro_yellow_wall_01_56
+  - first:
+      213: -857409420997111100
+    second: retro_yellow_wall_01_57
+  - first:
+      213: 3326470594869032338
+    second: retro_yellow_wall_01_58
+  - first:
+      213: -773554859206776286
+    second: retro_yellow_wall_01_59
+  - first:
+      213: -1537585408867560749
+    second: retro_yellow_wall_01_60
+  - first:
+      213: -8204853064064097603
+    second: retro_yellow_wall_01_61
+  - first:
+      213: -7271669555664938498
+    second: retro_yellow_wall_01_62
+  - first:
+      213: -3534784386686021692
+    second: retro_yellow_wall_01_63
+  - first:
+      213: -2371716751585312525
+    second: retro_yellow_wall_01_64
+  - first:
+      213: 4564744857079870470
+    second: retro_yellow_wall_01_65
+  - first:
+      213: 8274893067400330674
+    second: retro_yellow_wall_01_66
+  - first:
+      213: -8531503860019180227
+    second: retro_yellow_wall_01_67
+  - first:
+      213: 1404616422433163108
+    second: retro_yellow_wall_01_68
+  - first:
+      213: -6814671142806965666
+    second: retro_yellow_wall_01_69
+  - first:
+      213: 6215372243979029810
+    second: retro_yellow_wall_01_70
+  - first:
+      213: -8900156770243248067
+    second: retro_yellow_wall_01_71
+  - first:
+      213: 9068523587580177519
+    second: retro_yellow_wall_01_72
+  - first:
+      213: 125938722798490569
+    second: retro_yellow_wall_01_73
+  - first:
+      213: -14163918132434154
+    second: retro_yellow_wall_01_74
+  - first:
+      213: -2157426127814762701
+    second: retro_yellow_wall_01_75
+  - first:
+      213: 7515037458677575468
+    second: retro_yellow_wall_01_76
+  - first:
+      213: 8844583159067612072
+    second: retro_yellow_wall_01_77
+  - first:
+      213: 5032118872984514549
+    second: retro_yellow_wall_01_78
+  - first:
+      213: 2600173954834713901
+    second: retro_yellow_wall_01_79
+  - first:
+      213: 8599426577371720507
+    second: retro_yellow_wall_01_80
+  - first:
+      213: 2077853002849056317
+    second: retro_yellow_wall_01_81
+  - first:
+      213: 8064919533340842099
+    second: retro_yellow_wall_01_82
+  - first:
+      213: 3589963340296737191
+    second: retro_yellow_wall_01_83
+  - first:
+      213: -5207132102214170015
+    second: retro_yellow_wall_01_84
+  - first:
+      213: -501693247688267211
+    second: retro_yellow_wall_01_85
+  - first:
+      213: 868822014110394101
+    second: retro_yellow_wall_01_86
+  - first:
+      213: 3478448299473602853
+    second: retro_yellow_wall_01_87
+  - first:
+      213: 2017733830073907043
+    second: retro_yellow_wall_01_88
+  - first:
+      213: 3107809298288637571
+    second: retro_yellow_wall_01_89
+  - first:
+      213: -2903423157467507026
+    second: retro_yellow_wall_01_90
+  - first:
+      213: 4335807388556661821
+    second: retro_yellow_wall_01_91
+  - first:
+      213: -4238251498763351204
+    second: retro_yellow_wall_01_92
+  - first:
+      213: -1536605861156517494
+    second: retro_yellow_wall_01_93
+  - first:
+      213: 340821569110562510
+    second: retro_yellow_wall_01_94
+  - first:
+      213: 7575445753472499503
+    second: retro_yellow_wall_01_95
+  - first:
+      213: 6395555608060642706
+    second: retro_yellow_wall_01_96
+  - first:
+      213: -73074836589840512
+    second: retro_yellow_wall_01_97
+  - first:
+      213: -3176183978244825020
+    second: retro_yellow_wall_01_98
+  - first:
+      213: -1786703584826263144
+    second: retro_yellow_wall_01_99
+  - first:
+      213: -2238148652919780729
+    second: retro_yellow_wall_01_100
+  - first:
+      213: 10056103964567779
+    second: retro_yellow_wall_01_101
+  - first:
+      213: 2036628565734641130
+    second: retro_yellow_wall_01_102
+  - first:
+      213: -5159391437564079511
+    second: retro_yellow_wall_01_103
+  - first:
+      213: -9027480530165367113
+    second: retro_yellow_wall_01_104
+  - first:
+      213: 5450709323348809423
+    second: retro_yellow_wall_01_105
+  - first:
+      213: -6711624641732153944
+    second: retro_yellow_wall_01_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf382321f71ccf30800000000000000
+      internalID: 4597075644082831279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 677
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14575b7bb3e9d1140800000000000000
+      internalID: 4692080366112306497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 680
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef1ae9081eb8e70800000000000000
+      internalID: 9118629813075181248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 677
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4ab65aab6e24020800000000000000
+      internalID: 2324674046990197953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 675
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd489abd79a7fea0800000000000000
+      internalID: -5839012034396008994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_5
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 593
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165691f7f5b60ec70800000000000000
+      internalID: 8998310113384686945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_6
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 591
+        width: 25
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d9cd238182dd380800000000000000
+      internalID: -8944949200490291857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_7
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 602
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b862bd609c268110800000000000000
+      internalID: 1262745744351324341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_8
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 651
+        width: 122
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e331e2b960fee10800000000000000
+      internalID: 2229007604134395422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_9
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 691
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e21462edc90d87f0800000000000000
+      internalID: -608819594753994012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_10
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 673
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9cc75c1c7a19e60800000000000000
+      internalID: 7967333666478934449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_11
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 649
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf176cdf29c8e4c0800000000000000
+      internalID: -4257932240280412236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_12
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 691
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c7104b7d3f26b60800000000000000
+      internalID: 7738015217539447901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_13
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 691
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c871a2544491c0800000000000000
+      internalID: -4497895006149230118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 2120
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b87bb86ba3c7d80800000000000000
+      internalID: -8251655861547070678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_15
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 566
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2a8931db7bf6890800000000000000
+      internalID: -7462544034824150334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 626
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91220b2dc4a5159d0800000000000000
+      internalID: -2787347408366853607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_17
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 625
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6ac7e6bdd305a0800000000000000
+      internalID: -6556152854878720236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_18
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 560
+        width: 55
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa378a1370836fa0800000000000000
+      internalID: -5808657862523143437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_19
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 595
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e923fae2952e20800000000000000
+      internalID: 3325225437682590395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_20
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 600
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbdf9e13db915220800000000000000
+      internalID: 2472929001457310680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_21
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 582
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d185a57132876c90800000000000000
+      internalID: -7176624332252806700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_22
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 603
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada2e0cc6c26d8da0800000000000000
+      internalID: -5940983727465288998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_23
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 602
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89568301dacd7b50800000000000000
+      internalID: 6592648428596386188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_24
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 580
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88c837d569839970800000000000000
+      internalID: 8760496770661271690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_25
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 578
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e797f6c3c17214200800000000000000
+      internalID: 162454063788554622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 572
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f633f125cad380800000000000000
+      internalID: -8945620960213010174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_27
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 571
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acabe2d327129d690800000000000000
+      internalID: -7576988123537687862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_28
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 568
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5c7dc1302afea20800000000000000
+      internalID: 3093869603279324637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_29
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 558
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba294d8be338642c0800000000000000
+      internalID: -4447723276569636181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_30
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 150
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde5c8d527122fe90800000000000000
+      internalID: -6993490496273490209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_31
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 114
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ccf57e17c16390800000000000000
+      internalID: -7826755743750764060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 128
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadd36d7d1a733960800000000000000
+      internalID: 7580536864871013805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 128
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ba27e0156582f0800000000000000
+      internalID: -971259021356256508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 128
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e9c5f4013f77220800000000000000
+      internalID: 2483720970894614055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 130
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31560ccc3e6787800800000000000000
+      internalID: 610368470273516819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f80aa780d3af60800000000000000
+      internalID: 8044502640505714147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_37
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 130
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84777bd0a1b7f3d20800000000000000
+      internalID: 3260460007069022024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_38
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 132
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877d7ae1ff8afcd0800000000000000
+      internalID: -2523546372003760242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_39
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 128
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1faf8707c92da50800000000000000
+      internalID: 6544465215402734025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_40
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b11bd564675d6f30800000000000000
+      internalID: 4570405285568123317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_41
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 126
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5aed354066ccb0800000000000000
+      internalID: -4844078498682609707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 128
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2718253e5e4c00800000000000000
+      internalID: 886749759037451167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_43
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 130
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f811a0257ab6c2e40800000000000000
+      internalID: 5632995600313749903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_44
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26cc8776856555b0800000000000000
+      internalID: -5380282551618451924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_45
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 126
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9beb946b7ec55780800000000000000
+      internalID: -8694816476204635236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_46
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 134
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5545addbc418c60800000000000000
+      internalID: 7818614806387381695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 98
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cef1be272231610800000000000000
+      internalID: 1590652970358271126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_48
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 118
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56c56915f4cb0b40800000000000000
+      internalID: 5407632334560544347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50a2c1f005b4830800000000000000
+      internalID: 4056423915204511160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_50
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 81
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5cd9e5b5c7f89e0800000000000000
+      internalID: -1616937009331452476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_51
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 110
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c964a84ff737190800000000000000
+      internalID: -7965882627619644401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_52
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 111
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec0fbe7d2ae74a0800000000000000
+      internalID: -6593653756163731824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_53
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 109
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae32a9e6b9eede080800000000000000
+      internalID: -9156400116031413270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aae33dc84915d00800000000000000
+      internalID: 959711528167058077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_55
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa7664ded10858c0800000000000000
+      internalID: -4010453411615573261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_56
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 110
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728dcca68bfdec00800000000000000
+      internalID: 931677253778899574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_57
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 99
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2d462acaed914f0800000000000000
+      internalID: -857409420997111100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_58
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 110
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29573f2b16ff92e20800000000000000
+      internalID: 3326470594869032338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_59
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 81
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ae3ba34f7c345f0800000000000000
+      internalID: -773554859206776286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_60
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 110
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d210a4973669aae0800000000000000
+      internalID: -1537585408867560749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_61
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 93
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db22f220c91822e80800000000000000
+      internalID: -8204853064064097603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 97
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9919ae017d51b90800000000000000
+      internalID: -7271669555664938498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_63
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf8bf1145ce1fec0800000000000000
+      internalID: -3534784386686021692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 97
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00ae92e28f51fd0800000000000000
+      internalID: -2371716751585312525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_65
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 95
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047980334b395f30800000000000000
+      internalID: 4564744857079870470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_66
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 95
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd3dbc076356d270800000000000000
+      internalID: 8274893067400330674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_67
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dceafe0720a9980800000000000000
+      internalID: -8531503860019180227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4670fc8b1333e7310800000000000000
+      internalID: 1404616422433163108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_69
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 95
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b2e783bc6d61a0800000000000000
+      internalID: -6814671142806965666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_70
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 98
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d413d1020714650800000000000000
+      internalID: 6215372243979029810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_71
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 87
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300d50929a4c7480800000000000000
+      internalID: -8900156770243248067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_72
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 95
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ca7f2e72ed9dd70800000000000000
+      internalID: 9068523587580177519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_73
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 95
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3ded3e99c6fb100800000000000000
+      internalID: 125938722798490569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ba613ddfdadcff0800000000000000
+      internalID: -14163918132434154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_75
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 81
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f54760e584f02e0800000000000000
+      internalID: -2157426127814762701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_76
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 84
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2b3690c6ca4860800000000000000
+      internalID: 7515037458677575468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_77
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 95
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a390a6c5854eba70800000000000000
+      internalID: 8844583159067612072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_78
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 98
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe7c3247da5d540800000000000000
+      internalID: 5032118872984514549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_79
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d45248f6ca51420800000000000000
+      internalID: 2600173954834713901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_80
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 87
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b6b4019ec475770800000000000000
+      internalID: 8599426577371720507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 85
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36fb421c4406dc10800000000000000
+      internalID: 2077853002849056317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_82
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 79
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378d3e6f5995cef60800000000000000
+      internalID: 8064919533340842099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_83
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 92
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1df0733ac12d130800000000000000
+      internalID: 3589963340296737191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_84
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 91
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16acdfc01fc8cb7b0800000000000000
+      internalID: -5207132102214170015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_85
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 95
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a245936a0a909f0800000000000000
+      internalID: -501693247688267211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_86
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 95
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6e614c40dae0c00800000000000000
+      internalID: 868822014110394101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_87
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 95
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298fab7c4ee54030800000000000000
+      internalID: 3478448299473602853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_88
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 93
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f7d06a3e600c10800000000000000
+      internalID: 2017733830073907043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_89
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38676264718212b20800000000000000
+      internalID: 3107809298288637571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_90
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 93
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea691827508f4b7d0800000000000000
+      internalID: -2903423157467507026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_91
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 97
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d341f6909d1eb2c30800000000000000
+      internalID: 4335807388556661821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_92
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 89
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b817397b4be25c0800000000000000
+      internalID: -4238251498763351204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_93
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a898bfd4c11ecaae0800000000000000
+      internalID: -1536605861156517494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_94
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec650ae4967dab400800000000000000
+      internalID: 340821569110562510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_95
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 97
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f38feb6c3612960800000000000000
+      internalID: 7575445753472499503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_96
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 81
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29546bfb0f391c850800000000000000
+      internalID: 6395555608060642706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_97
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 79
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087fa03c2d26cfef0800000000000000
+      internalID: -73074836589840512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_98
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4402e6bff7debe3d0800000000000000
+      internalID: -3176183978244825020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_99
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 81
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89973835e8a5437e0800000000000000
+      internalID: -1786703584826263144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_100
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a823c88af70f0e0800000000000000
+      internalID: -2238148652919780729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_101
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e1a829f9b32000800000000000000
+      internalID: 10056103964567779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_102
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedc608d3ee834c10800000000000000
+      internalID: 2036628565734641130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_103
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9621dcab2d82668b0800000000000000
+      internalID: -5159391437564079511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_104
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7befcb69942f7b280800000000000000
+      internalID: -9027480530165367113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_105
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 79
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc69d10204fc4ab40800000000000000
+      internalID: 5450709323348809423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: retro_yellow_wall_01_106
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 81
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adebc3b2f48bd2a0800000000000000
+      internalID: -6711624641732153944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      retro_yellow_wall_01_0: 4597075644082831279
+      retro_yellow_wall_01_1: 4692080366112306497
+      retro_yellow_wall_01_10: 7967333666478934449
+      retro_yellow_wall_01_100: -2238148652919780729
+      retro_yellow_wall_01_101: 10056103964567779
+      retro_yellow_wall_01_102: 2036628565734641130
+      retro_yellow_wall_01_103: -5159391437564079511
+      retro_yellow_wall_01_104: -9027480530165367113
+      retro_yellow_wall_01_105: 5450709323348809423
+      retro_yellow_wall_01_106: -6711624641732153944
+      retro_yellow_wall_01_11: -4257932240280412236
+      retro_yellow_wall_01_12: 7738015217539447901
+      retro_yellow_wall_01_13: -4497895006149230118
+      retro_yellow_wall_01_14: -8251655861547070678
+      retro_yellow_wall_01_15: -7462544034824150334
+      retro_yellow_wall_01_16: -2787347408366853607
+      retro_yellow_wall_01_17: -6556152854878720236
+      retro_yellow_wall_01_18: -5808657862523143437
+      retro_yellow_wall_01_19: 3325225437682590395
+      retro_yellow_wall_01_2: 9118629813075181248
+      retro_yellow_wall_01_20: 2472929001457310680
+      retro_yellow_wall_01_21: -7176624332252806700
+      retro_yellow_wall_01_22: -5940983727465288998
+      retro_yellow_wall_01_23: 6592648428596386188
+      retro_yellow_wall_01_24: 8760496770661271690
+      retro_yellow_wall_01_25: 162454063788554622
+      retro_yellow_wall_01_26: -8945620960213010174
+      retro_yellow_wall_01_27: -7576988123537687862
+      retro_yellow_wall_01_28: 3093869603279324637
+      retro_yellow_wall_01_29: -4447723276569636181
+      retro_yellow_wall_01_3: 2324674046990197953
+      retro_yellow_wall_01_30: -6993490496273490209
+      retro_yellow_wall_01_31: -7826755743750764060
+      retro_yellow_wall_01_32: 7580536864871013805
+      retro_yellow_wall_01_33: -971259021356256508
+      retro_yellow_wall_01_34: 2483720970894614055
+      retro_yellow_wall_01_35: 610368470273516819
+      retro_yellow_wall_01_36: 8044502640505714147
+      retro_yellow_wall_01_37: 3260460007069022024
+      retro_yellow_wall_01_38: -2523546372003760242
+      retro_yellow_wall_01_39: 6544465215402734025
+      retro_yellow_wall_01_4: -5839012034396008994
+      retro_yellow_wall_01_40: 4570405285568123317
+      retro_yellow_wall_01_41: -4844078498682609707
+      retro_yellow_wall_01_42: 886749759037451167
+      retro_yellow_wall_01_43: 5632995600313749903
+      retro_yellow_wall_01_44: -5380282551618451924
+      retro_yellow_wall_01_45: -8694816476204635236
+      retro_yellow_wall_01_46: 7818614806387381695
+      retro_yellow_wall_01_47: 1590652970358271126
+      retro_yellow_wall_01_48: 5407632334560544347
+      retro_yellow_wall_01_49: 4056423915204511160
+      retro_yellow_wall_01_5: 8998310113384686945
+      retro_yellow_wall_01_50: -1616937009331452476
+      retro_yellow_wall_01_51: -7965882627619644401
+      retro_yellow_wall_01_52: -6593653756163731824
+      retro_yellow_wall_01_53: -9156400116031413270
+      retro_yellow_wall_01_54: 959711528167058077
+      retro_yellow_wall_01_55: -4010453411615573261
+      retro_yellow_wall_01_56: 931677253778899574
+      retro_yellow_wall_01_57: -857409420997111100
+      retro_yellow_wall_01_58: 3326470594869032338
+      retro_yellow_wall_01_59: -773554859206776286
+      retro_yellow_wall_01_6: -8944949200490291857
+      retro_yellow_wall_01_60: -1537585408867560749
+      retro_yellow_wall_01_61: -8204853064064097603
+      retro_yellow_wall_01_62: -7271669555664938498
+      retro_yellow_wall_01_63: -3534784386686021692
+      retro_yellow_wall_01_64: -2371716751585312525
+      retro_yellow_wall_01_65: 4564744857079870470
+      retro_yellow_wall_01_66: 8274893067400330674
+      retro_yellow_wall_01_67: -8531503860019180227
+      retro_yellow_wall_01_68: 1404616422433163108
+      retro_yellow_wall_01_69: -6814671142806965666
+      retro_yellow_wall_01_7: 1262745744351324341
+      retro_yellow_wall_01_70: 6215372243979029810
+      retro_yellow_wall_01_71: -8900156770243248067
+      retro_yellow_wall_01_72: 9068523587580177519
+      retro_yellow_wall_01_73: 125938722798490569
+      retro_yellow_wall_01_74: -14163918132434154
+      retro_yellow_wall_01_75: -2157426127814762701
+      retro_yellow_wall_01_76: 7515037458677575468
+      retro_yellow_wall_01_77: 8844583159067612072
+      retro_yellow_wall_01_78: 5032118872984514549
+      retro_yellow_wall_01_79: 2600173954834713901
+      retro_yellow_wall_01_8: 2229007604134395422
+      retro_yellow_wall_01_80: 8599426577371720507
+      retro_yellow_wall_01_81: 2077853002849056317
+      retro_yellow_wall_01_82: 8064919533340842099
+      retro_yellow_wall_01_83: 3589963340296737191
+      retro_yellow_wall_01_84: -5207132102214170015
+      retro_yellow_wall_01_85: -501693247688267211
+      retro_yellow_wall_01_86: 868822014110394101
+      retro_yellow_wall_01_87: 3478448299473602853
+      retro_yellow_wall_01_88: 2017733830073907043
+      retro_yellow_wall_01_89: 3107809298288637571
+      retro_yellow_wall_01_9: -608819594753994012
+      retro_yellow_wall_01_90: -2903423157467507026
+      retro_yellow_wall_01_91: 4335807388556661821
+      retro_yellow_wall_01_92: -4238251498763351204
+      retro_yellow_wall_01_93: -1536605861156517494
+      retro_yellow_wall_01_94: 340821569110562510
+      retro_yellow_wall_01_95: 7575445753472499503
+      retro_yellow_wall_01_96: 6395555608060642706
+      retro_yellow_wall_01_97: -73074836589840512
+      retro_yellow_wall_01_98: -3176183978244825020
+      retro_yellow_wall_01_99: -1786703584826263144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 31f0020b74bf4da45974a9423f8f7c54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1347889950921809599
+    second: Futuristic Blue Power Cell_0
+  - first:
+      213: -1912890265632160894
+    second: Futuristic Blue Power Cell_1
+  - first:
+      213: -6665737887000633412
+    second: Futuristic Blue Power Cell_2
+  - first:
+      213: 833261152135324604
+    second: Futuristic Blue Power Cell_3
+  - first:
+      213: -7111626550397958071
+    second: Futuristic Blue Power Cell_4
+  - first:
+      213: -7379958153194317572
+    second: Futuristic Blue Power Cell_5
+  - first:
+      213: -1185687946183048852
+    second: Futuristic Blue Power Cell_6
+  - first:
+      213: 451938262326141134
+    second: Futuristic Blue Power Cell_7
+  - first:
+      213: 3228142234512718874
+    second: Futuristic Blue Power Cell_8
+  - first:
+      213: -9170439783107401522
+    second: Futuristic Blue Power Cell_9
+  - first:
+      213: 8600266261087288147
+    second: Futuristic Blue Power Cell_10
+  - first:
+      213: 8776968342533983721
+    second: Futuristic Blue Power Cell_11
+  - first:
+      213: -8095362794906821222
+    second: Futuristic Blue Power Cell_12
+  - first:
+      213: -666238569211300212
+    second: Futuristic Blue Power Cell_13
+  - first:
+      213: 987702882163119001
+    second: Futuristic Blue Power Cell_14
+  - first:
+      213: -8977169816904967546
+    second: Futuristic Blue Power Cell_15
+  - first:
+      213: -8180967503850253904
+    second: Futuristic Blue Power Cell_16
+  - first:
+      213: -6407406119399558486
+    second: Futuristic Blue Power Cell_17
+  - first:
+      213: 6932514483978631796
+    second: Futuristic Blue Power Cell_18
+  - first:
+      213: 2737824326030262759
+    second: Futuristic Blue Power Cell_19
+  - first:
+      213: 7173060404515921107
+    second: Futuristic Blue Power Cell_20
+  - first:
+      213: -1262061566880838069
+    second: Futuristic Blue Power Cell_21
+  - first:
+      213: 8608080005795562292
+    second: Futuristic Blue Power Cell_22
+  - first:
+      213: 4296260524489827563
+    second: Futuristic Blue Power Cell_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 1323
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141acf62b355b4de0800000000000000
+      internalID: -1347889950921809599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1096
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28341b6307c0475e0800000000000000
+      internalID: -1912890265632160894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1096
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfd67755ba8e73a0800000000000000
+      internalID: -6665737887000633412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1087
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a8226a96509b00800000000000000
+      internalID: 833261152135324604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1084
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9480b48d45d6e4d90800000000000000
+      internalID: -7111626550397958071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_5
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1047
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8da9d092f159990800000000000000
+      internalID: -7379958153194317572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1063
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c610c4158179b8fe0800000000000000
+      internalID: -1185687946183048852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 990
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06b52847b954600800000000000000
+      internalID: 451938262326141134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 822
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cf094424aaccc20800000000000000
+      internalID: 3228142234512718874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 789
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e5c5ba9d0cb080800000000000000
+      internalID: -9170439783107401522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_10
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 741
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b72e929984a5770800000000000000
+      internalID: 8600266261087288147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_11
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 672
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed4695843e0ec970800000000000000
+      internalID: 8776968342533983721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_12
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 632
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d5aa9dd6e77af80800000000000000
+      internalID: -8095362794906821222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_13
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 636
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86fe7a1d8b01c6f0800000000000000
+      internalID: -666238569211300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_14
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 495
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99356fac98605bd00800000000000000
+      internalID: 987702882163119001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_15
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 495
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a55075d9faa6380800000000000000
+      internalID: -8977169816904967546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 458
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ddfd566d577e80800000000000000
+      internalID: -8180967503850253904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 453
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2768115125417a0800000000000000
+      internalID: -6407406119399558486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_18
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 428
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47afbc1713d353060800000000000000
+      internalID: 6932514483978631796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 436
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1057a08b4bef520800000000000000
+      internalID: 2737824326030262759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_20
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 389
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc5793fe64db8360800000000000000
+      internalID: 7173060404515921107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 378
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e056d01b14c7ee0800000000000000
+      internalID: -1262061566880838069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 264
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433469f582b067770800000000000000
+      internalID: 8608080005795562292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Power Cell_23
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4efb83f226f9b30800000000000000
+      internalID: 4296260524489827563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Futuristic Blue Power Cell_0: -1347889950921809599
+      Futuristic Blue Power Cell_1: -1912890265632160894
+      Futuristic Blue Power Cell_10: 8600266261087288147
+      Futuristic Blue Power Cell_11: 8776968342533983721
+      Futuristic Blue Power Cell_12: -8095362794906821222
+      Futuristic Blue Power Cell_13: -666238569211300212
+      Futuristic Blue Power Cell_14: 987702882163119001
+      Futuristic Blue Power Cell_15: -8977169816904967546
+      Futuristic Blue Power Cell_16: -8180967503850253904
+      Futuristic Blue Power Cell_17: -6407406119399558486
+      Futuristic Blue Power Cell_18: 6932514483978631796
+      Futuristic Blue Power Cell_19: 2737824326030262759
+      Futuristic Blue Power Cell_2: -6665737887000633412
+      Futuristic Blue Power Cell_20: 7173060404515921107
+      Futuristic Blue Power Cell_21: -1262061566880838069
+      Futuristic Blue Power Cell_22: 8608080005795562292
+      Futuristic Blue Power Cell_23: 4296260524489827563
+      Futuristic Blue Power Cell_3: 833261152135324604
+      Futuristic Blue Power Cell_4: -7111626550397958071
+      Futuristic Blue Power Cell_5: -7379958153194317572
+      Futuristic Blue Power Cell_6: -1185687946183048852
+      Futuristic Blue Power Cell_7: 451938262326141134
+      Futuristic Blue Power Cell_8: 3228142234512718874
+      Futuristic Blue Power Cell_9: -9170439783107401522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

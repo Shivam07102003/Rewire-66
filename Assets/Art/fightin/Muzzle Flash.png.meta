@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 924a6a83347a23d41b286f9364f6b83a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8908023929555322721
+    second: Cyan Electric Muzzle Flash_0
+  - first:
+      213: -6430075411356306642
+    second: Cyan Electric Muzzle Flash_1
+  - first:
+      213: 1884059273987834051
+    second: Cyan Electric Muzzle Flash_2
+  - first:
+      213: -4979042418169107703
+    second: Cyan Electric Muzzle Flash_3
+  - first:
+      213: -5897400549628700828
+    second: Cyan Electric Muzzle Flash_4
+  - first:
+      213: -3110441821138305111
+    second: Cyan Electric Muzzle Flash_5
+  - first:
+      213: -1992624305187295004
+    second: Cyan Electric Muzzle Flash_6
+  - first:
+      213: 6462363866573470099
+    second: Cyan Electric Muzzle Flash_7
+  - first:
+      213: 8018530844143743265
+    second: Cyan Electric Muzzle Flash_8
+  - first:
+      213: -2391993430034949202
+    second: Cyan Electric Muzzle Flash_9
+  - first:
+      213: -6066651205896974159
+    second: Cyan Electric Muzzle Flash_10
+  - first:
+      213: -8817770845317810279
+    second: Cyan Electric Muzzle Flash_11
+  - first:
+      213: 4000280939093536003
+    second: Cyan Electric Muzzle Flash_12
+  - first:
+      213: 3358922320260800768
+    second: Cyan Electric Muzzle Flash_13
+  - first:
+      213: 4647763963759040830
+    second: Cyan Electric Muzzle Flash_14
+  - first:
+      213: -2844699613511280198
+    second: Cyan Electric Muzzle Flash_15
+  - first:
+      213: -2050896763106575517
+    second: Cyan Electric Muzzle Flash_16
+  - first:
+      213: -5412961863872790433
+    second: Cyan Electric Muzzle Flash_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 1683
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16703d33198af9b70800000000000000
+      internalID: 8908023929555322721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 531
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23322b3b78c3c6a0800000000000000
+      internalID: -6430075411356306642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 531
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c043d17de5852a10800000000000000
+      internalID: 1884059273987834051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_3
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 499
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bad6ffc43e6eab0800000000000000
+      internalID: -4979042418169107703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_4
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 521
+        width: 139
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46710352279382ea0800000000000000
+      internalID: -5897400549628700828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_5
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 514
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af388cb4ad75d4d0800000000000000
+      internalID: -3110441821138305111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_6
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 475
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0708670c6c854e0800000000000000
+      internalID: -1992624305187295004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_7
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 505
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3997e6492bdeea950800000000000000
+      internalID: 6462363866573470099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_8
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 483
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12173b9915b874f60800000000000000
+      internalID: 8018530844143743265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_9
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 471
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd2b116aeedced0800000000000000
+      internalID: -2391993430034949202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_10
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 368
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0d058eedceecba0800000000000000
+      internalID: -6066651205896974159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_11
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 313
+        width: 117
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997390e722cf0a580800000000000000
+      internalID: -8817770845317810279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_12
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 323
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30daf68d15ad38730800000000000000
+      internalID: 4000280939093536003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_13
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 344
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001a64fcd0a4d9e20800000000000000
+      internalID: 3358922320260800768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 334
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3918bb33bc208040800000000000000
+      internalID: 4647763963759040830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_15
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 332
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab918fbf5c89588d0800000000000000
+      internalID: -2844699613511280198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_16
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb8049240c983e0800000000000000
+      internalID: -2050896763106575517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan Electric Muzzle Flash_17
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 319
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5040292ddb41e4b0800000000000000
+      internalID: -5412961863872790433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cyan Electric Muzzle Flash_0: 8908023929555322721
+      Cyan Electric Muzzle Flash_1: -6430075411356306642
+      Cyan Electric Muzzle Flash_10: -6066651205896974159
+      Cyan Electric Muzzle Flash_11: -8817770845317810279
+      Cyan Electric Muzzle Flash_12: 4000280939093536003
+      Cyan Electric Muzzle Flash_13: 3358922320260800768
+      Cyan Electric Muzzle Flash_14: 4647763963759040830
+      Cyan Electric Muzzle Flash_15: -2844699613511280198
+      Cyan Electric Muzzle Flash_16: -2050896763106575517
+      Cyan Electric Muzzle Flash_17: -5412961863872790433
+      Cyan Electric Muzzle Flash_2: 1884059273987834051
+      Cyan Electric Muzzle Flash_3: -4979042418169107703
+      Cyan Electric Muzzle Flash_4: -5897400549628700828
+      Cyan Electric Muzzle Flash_5: -3110441821138305111
+      Cyan Electric Muzzle Flash_6: -1992624305187295004
+      Cyan Electric Muzzle Flash_7: 6462363866573470099
+      Cyan Electric Muzzle Flash_8: 8018530844143743265
+      Cyan Electric Muzzle Flash_9: -2391993430034949202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

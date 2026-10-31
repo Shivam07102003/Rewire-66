@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: e557ceed782f2ce4eb5ee705cc8cc00f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2825083456785451235
+    second: Generator A coolant panel before repair_0
+  - first:
+      213: 620760591130496830
+    second: Generator A coolant panel before repair_1
+  - first:
+      213: -260119500353499648
+    second: Generator A coolant panel before repair_2
+  - first:
+      213: -4323096703849331491
+    second: Generator A coolant panel before repair_3
+  - first:
+      213: 6337362889563959918
+    second: Generator A coolant panel before repair_4
+  - first:
+      213: 2079559816386630893
+    second: Generator A coolant panel before repair_5
+  - first:
+      213: -3500409868172217818
+    second: Generator A coolant panel before repair_6
+  - first:
+      213: -4295325813914253926
+    second: Generator A coolant panel before repair_7
+  - first:
+      213: 914731179581686225
+    second: Generator A coolant panel before repair_8
+  - first:
+      213: -6569559728002446072
+    second: Generator A coolant panel before repair_9
+  - first:
+      213: 1241218682681776525
+    second: Generator A coolant panel before repair_10
+  - first:
+      213: 3823383691841369213
+    second: Generator A coolant panel before repair_11
+  - first:
+      213: -1006052383427745810
+    second: Generator A coolant panel before repair_12
+  - first:
+      213: 822621030035179051
+    second: Generator A coolant panel before repair_13
+  - first:
+      213: -5863438021610985758
+    second: Generator A coolant panel before repair_14
+  - first:
+      213: 7684262046086346745
+    second: Generator A coolant panel before repair_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1524
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8878e9f66b43720800000000000000
+      internalID: 2825083456785451235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 53
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f05ecf7726d9800800000000000000
+      internalID: 620760591130496830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e074e41bed36cf0800000000000000
+      internalID: -260119500353499648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 93
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4066dd3764104c0800000000000000
+      internalID: -4323096703849331491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 111
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62f335a8f5d2f750800000000000000
+      internalID: 6337362889563959918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 83
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4d6e092a41cdc10800000000000000
+      internalID: 2079559816386630893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 31
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622b25755cb0c6fc0800000000000000
+      internalID: -3500409868172217818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 77
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95431b0eefe364c0800000000000000
+      internalID: -4295325813914253926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 73
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1c0ff4927c1bc00800000000000000
+      internalID: 914731179581686225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 29
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dc3b10c3c34d4a0800000000000000
+      internalID: -6569559728002446072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 18
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8953ddc0d1b93110800000000000000
+      internalID: 1241218682681776525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 16
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74f938e5336f0530800000000000000
+      internalID: 3823383691841369213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_12
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7aa5400b8c902f0800000000000000
+      internalID: -1006052383427745810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_13
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 81
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264308e7798a6b00800000000000000
+      internalID: 822621030035179051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_14
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ab576f22e0aea0800000000000000
+      internalID: -5863438021610985758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Generator A coolant panel before repair_15
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 45
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73ef13e9bf3aa60800000000000000
+      internalID: 7684262046086346745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Generator A coolant panel before repair_0: 2825083456785451235
+      Generator A coolant panel before repair_1: 620760591130496830
+      Generator A coolant panel before repair_10: 1241218682681776525
+      Generator A coolant panel before repair_11: 3823383691841369213
+      Generator A coolant panel before repair_12: -1006052383427745810
+      Generator A coolant panel before repair_13: 822621030035179051
+      Generator A coolant panel before repair_14: -5863438021610985758
+      Generator A coolant panel before repair_15: 7684262046086346745
+      Generator A coolant panel before repair_2: -260119500353499648
+      Generator A coolant panel before repair_3: -4323096703849331491
+      Generator A coolant panel before repair_4: 6337362889563959918
+      Generator A coolant panel before repair_5: 2079559816386630893
+      Generator A coolant panel before repair_6: -3500409868172217818
+      Generator A coolant panel before repair_7: -4295325813914253926
+      Generator A coolant panel before repair_8: 914731179581686225
+      Generator A coolant panel before repair_9: -6569559728002446072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

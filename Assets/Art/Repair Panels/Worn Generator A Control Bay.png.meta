@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c22840d9785298e4882f444c35ffa4e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2393612796092314889
+    second: Worn Generator A Control Bay_0
+  - first:
+      213: -7649088847462320830
+    second: Worn Generator A Control Bay_1
+  - first:
+      213: 909735843514368208
+    second: Worn Generator A Control Bay_2
+  - first:
+      213: 2712770968359394065
+    second: Worn Generator A Control Bay_3
+  - first:
+      213: 4681227778248010417
+    second: Worn Generator A Control Bay_4
+  - first:
+      213: 4705025983521056434
+    second: Worn Generator A Control Bay_5
+  - first:
+      213: -8161288759048958095
+    second: Worn Generator A Control Bay_6
+  - first:
+      213: 3261798456668438444
+    second: Worn Generator A Control Bay_7
+  - first:
+      213: -1681945282136687697
+    second: Worn Generator A Control Bay_8
+  - first:
+      213: 8609098587127648763
+    second: Worn Generator A Control Bay_9
+  - first:
+      213: 8119098981572389496
+    second: Worn Generator A Control Bay_10
+  - first:
+      213: -7446113895558135927
+    second: Worn Generator A Control Bay_11
+  - first:
+      213: 1432821677013888739
+    second: Worn Generator A Control Bay_12
+  - first:
+      213: -4493427146233374283
+    second: Worn Generator A Control Bay_13
+  - first:
+      213: 1498217600043691548
+    second: Worn Generator A Control Bay_14
+  - first:
+      213: -911842228833634147
+    second: Worn Generator A Control Bay_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1534
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90579e8f722d73120800000000000000
+      internalID: 2393612796092314889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2453b97483af8d590800000000000000
+      internalID: -7649088847462320830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 54
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04d100ee700ac00800000000000000
+      internalID: 909735843514368208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 57
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bdd06a2d2b5a520800000000000000
+      internalID: 2712770968359394065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 17
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae923bcdf07f040800000000000000
+      internalID: 4681227778248010417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 53
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b661c6243c9b4140800000000000000
+      internalID: 4705025983521056434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 47
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f8f7f2d174dbe80800000000000000
+      internalID: -8161288759048958095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 23
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafb3a22a6c344d20800000000000000
+      internalID: 3261798456668438444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 13
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab399e5da788a8e0800000000000000
+      internalID: -1681945282136687697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_9
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 49
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf19f025d89a97770800000000000000
+      internalID: 8609098587127648763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 22
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aabd4c185dca070800000000000000
+      internalID: 8119098981572389496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 49
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f382afcd61aa890800000000000000
+      internalID: -7446113895558135927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_12
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 57
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee64ec49b762e310800000000000000
+      internalID: 1432821677013888739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_13
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b999a451d324a1c0800000000000000
+      internalID: -4493427146233374283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_14
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ea7d628fcbac410800000000000000
+      internalID: 1498217600043691548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worn Generator A Control Bay_15
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 25
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98bb23f25c7853f0800000000000000
+      internalID: -911842228833634147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Worn Generator A Control Bay_0: 2393612796092314889
+      Worn Generator A Control Bay_1: -7649088847462320830
+      Worn Generator A Control Bay_10: 8119098981572389496
+      Worn Generator A Control Bay_11: -7446113895558135927
+      Worn Generator A Control Bay_12: 1432821677013888739
+      Worn Generator A Control Bay_13: -4493427146233374283
+      Worn Generator A Control Bay_14: 1498217600043691548
+      Worn Generator A Control Bay_15: -911842228833634147
+      Worn Generator A Control Bay_2: 909735843514368208
+      Worn Generator A Control Bay_3: 2712770968359394065
+      Worn Generator A Control Bay_4: 4681227778248010417
+      Worn Generator A Control Bay_5: 4705025983521056434
+      Worn Generator A Control Bay_6: -8161288759048958095
+      Worn Generator A Control Bay_7: 3261798456668438444
+      Worn Generator A Control Bay_8: -1681945282136687697
+      Worn Generator A Control Bay_9: 8609098587127648763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
